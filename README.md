@@ -1,1 +1,1 @@
-# perioden.io
+# periodental.ioc
