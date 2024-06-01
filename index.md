@@ -19,7 +19,7 @@ Every one would like to keep their natural teeth for lifelong. However, if you a
 
 <p>The cost of dental implants maybe more affordable than what you think. Our office will present all options. The best dental implant solution for one patient, may not be the best for another.</p>
 
-<p>At Perio Dental office in Abbotsford, we try to understand what is the exact concern for each patient and come up with the best solution to meet the patient’s needs.</p>
+<p>At Dr. Roy's Perio Dental office in Abbotsford, we try to understand what is the exact concern for each patient and come up with the best solution to meet the patient’s needs.</p>
 
 
 <h5><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc</i></h5>
