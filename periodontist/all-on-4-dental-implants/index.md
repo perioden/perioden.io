@@ -8,7 +8,9 @@ title: All-on-4 Dental Implants
 <p>The pursuit of a confident and functional smile is an essential aspect of overall well-being and self-esteem. However, tooth loss can significantly impact a person's quality of life, affecting their ability to eat, speak, and feel confident in social situations. In recent years, significant advancements in dental technology have paved the way for innovative solutions, and one such revolutionary approach is the <strong>"All-on-4" dental implant technique</strong>. </p>
 
 <h3>Understanding All-on-4 Dental Implants</h3>
+
 <p>The All-on-4 dental implant technique is a modern solution designed to replace a full arch of teeth using only four strategically placed dental implants. Unlike traditional dentures, which sit on the gums and often lead to discomfort and reduced chewing efficiency, All-on-4 implants offer a fixed, permanent solution that closely resembles natural teeth.</p>
+
 <p>The procedure involves the precise placement of two straight implants in the anterior region of the jaw and two tilted implants in the posterior region. These tilted implants provide additional support and stability, even in cases where bone density might be compromised. Once the implants are securely anchored into the jawbone, a customized prosthetic arch – typically made of high-quality materials like porcelain – is attached, completing the restoration process.</p>
 
 <h3>Benefits of All-on-4 Dental Implants</h3>
@@ -25,7 +27,7 @@ title: All-on-4 Dental Implants
 <p>The journey to a transformed smile through All-on-4 dental implants involves several stages:</p>
 <ul class="bullets">
 <li>Consultation and Planning: The process begins with a comprehensive evaluation of the patient's oral health, including digital imaging and scans. This information guides the creation of a personalized treatment plan tailored to the patient's unique needs.</li>
-<li>Implant Placement: On the day of the surgery, the dentist or oral surgeon places the strategically positioned dental implants into the jawbone. This is typically performed under local anesthesia, ensuring the patient's comfort throughout the procedure.</li>
+<li>Implant Placement: On the day of the surgery, Dr. Roy places the strategically positioned dental implants into the jawbone. This is typically performed under local anesthesia, or using IV sedation, to ensure the patient's comfort throughout the procedure.</li>
 <li>Attachment of Prosthetic Arch: Once the implants have integrated with the bone, a custom-made prosthetic arch is securely affixed to the implants. This arch is carefully designed to match the patient's natural teeth, ensuring a seamless and natural appearance.</li>
 <li>Follow-Up Care: Regular follow-up appointments are essential to monitor the healing process and make any necessary adjustments. Patients will receive guidance on proper oral hygiene practices and care to ensure the longevity of their All-on-4 implants.</li>
 </ul>
