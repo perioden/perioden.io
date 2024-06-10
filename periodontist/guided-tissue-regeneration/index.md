@@ -12,7 +12,7 @@ title: Guided Tissue Regeneration
 </p>
 <p>Guided tissue regeneration utilizes collagen membrane derived from animals and bone materials derived from animals or human cadavers. It also utilizes recently developed bio-engineered materials like enamel protein derivatives and platelet derived growth factors. These materials stimulate the growth of our body cells in the right proportion.
 </p>
-<p>Traditionally, with any periodontal surgeries there used to be big gaps at the base of teeth which was a huge maintenance problems as well as esthetic disfigurement for many patients.  With the newer surgical techniques provided at Valley Periodontics and Dental Implants, like modified papilla regeneration and specialized suturing techniques, you can expect minimal loss of your gingival tissue.
+<p>Traditionally, with any periodontal surgeries there used to be big gaps at the base of teeth which was a huge maintenance problems as well as esthetic disfigurement for many patients.  With the newer surgical techniques provided at Perio Dental like modified papilla regeneration and specialized suturing techniques, you can expect minimal loss of your gingival tissue.
 </p>
-<p>At Valley Periodontics and Dental Implants, we utilize micro surgical techniques to perform these procedures.
+<p>At Perio Dental we utilize micro surgical techniques to perform these procedures.
 </p>

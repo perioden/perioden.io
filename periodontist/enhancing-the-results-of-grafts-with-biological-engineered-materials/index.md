@@ -3,7 +3,7 @@ layout: default
 title: Enhancing Gum and Bone Grafts with Bioengineered Materials
 ---
 
-<h3>Maximizing Success: Enhancing Gum and Bone Grafts with Bioengineered Materials</h3>
+<h3>Enhancing Gum and Bone Grafts with Bioengineered Materials</h3>
 
 <p>When it comes to dental health and aesthetics, preserving and developing natural tissue esthetics is of paramount importance. Dr. Mansur Roy, a distinguished practitioner at Perio Dental, has taken his extensive postgraduate training in Periodontics, Dental Implants, and sedation to the next level by incorporating innovative approaches in enhancing the results of gum and bone grafts. With his expertise and passion, Dr. Roy has been at the forefront of using bioengineered materials to elevate the success rates of grafting procedures, ensuring optimal outcomes for his patients.</p>
 
