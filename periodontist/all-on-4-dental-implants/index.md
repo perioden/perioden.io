@@ -3,7 +3,8 @@ layout: default
 title: All-on-4 Dental Implants
 ---
 
-<h3>All-on-4 Dental Implants: A Transformative Solution for Complete Smile Restoration</h3>
+<h3>All-on-4 Dental Implants</h3>
+<h4>A Transformative Solution for Complete Smile Restoration</h4>
 
 <p>The pursuit of a confident and functional smile is an essential aspect of overall well-being and self-esteem. However, tooth loss can significantly impact a person's quality of life, affecting their ability to eat, speak, and feel confident in social situations. In recent years, significant advancements in dental technology have paved the way for innovative solutions, and one such revolutionary approach is the <strong>"All-on-4" dental implant technique</strong>. </p>
 
