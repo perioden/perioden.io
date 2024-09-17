@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Perio Dental
+title: Dr. Roy - Periodontist, M.Sc, DMD - Perio Dental
 ---
 
 <p>
