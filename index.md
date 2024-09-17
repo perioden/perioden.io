@@ -3,7 +3,7 @@ layout: default
 title: Dr. Roy - Periodontist, M.Sc, DMD - Perio Dental
 ---
 <p>
-<iframe src="https://player.vimeo.com/video/1010307633?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="672" height="378" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="Perio Dental - Treatments offered by Dr. Roy Periodontist"></iframe>
+<iframe src="https://player.vimeo.com/video/1010307633?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="540" height="960" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="Perio Dental - Treatments offered by Dr. Roy Periodontist"></iframe>
 <p>
 Every one would like to keep their natural teeth for lifelong. However, if you are suffering from silent gum disease, you may loose your teeth earlier. Dr. Roy can help in diagnosing the gum disease and treat the root cause of the disease. Using this approach will effectively treat the gum disease. You will benefit by having healthy teeth and gums, which can significantly extend the life of the teeth.</p>
 
