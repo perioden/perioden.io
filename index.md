@@ -5,13 +5,13 @@ title: Dr. Roy - Periodontist, M.Sc, DMD - Perio Dental
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011422201?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dr. Roy - Periodontist, M.Sc, DMD - Perio Dental Welcome Video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<p>Every one would like to keep their natural teeth for lifelong. However, if you are suffering from silent gum disease, you may loose your teeth earlier. Dr. Roy can help in diagnosing the gum disease and treat the root cause of the disease. Using this approach will effectively treat the gum disease. You will benefit by having healthy teeth and gums, which can significantly extend the life of the teeth.</p>
-
-<p>If you happen to be in a stage of advanced periodontal disease and your teeth cannot be saved or you have already lost your teeth, Dr. Roy can provide dental implant supported fixed or removable teeth. You can expect the final result to look natural, pleasing and long lasting. Dr. Roy looks at all the aspects of the smile and gum tissue and based on that he will make a customized treatment plan. In most of the situations you can get fixed teeth immediately after removing the teeth.</p>
-
-<p>Perio Dental is a specialty clinic dealing with gum diseases and esthetic and plastic surgeries of oral tissue. We also provide dental implant treatment to replace missing teeth, with special emphasis on soft tissue esthetics and maintenance around the dental implants. Our clinic is also equipped with IV (intra venous) Sedation Facilities.</p>
+<p>Perio Dental is a specialty clinic dealing with Gum diseases and Esthetic and Plastic Surgeries of oral tissue. We also provide Dental Implant treatment to replace missing teeth, with special emphasis on soft tissue esthetics and maintenance around the dental implants. Our clinic is also equipped with IV (intra-venous) Sedation Facilities.</p>
 
 <p>Dr. Roy's mission is to provide comprehensive, conservative and excellent treatment procedures in keeping with the highest standard of periodontal and dental implant treatment care. He is committed to using state of the art dental technology in his practice.</p>
+
+<p>Every one would like to keep their natural teeth for lifelong. However, if you are suffering from silent gum disease, you may loose your teeth earlier. Dr. Roy can help in diagnosing the gum disease and treat the root cause of the disease. Using this approach will effectively treat the gum disease. You will benefit by having healthy teeth and gums, which can significantly extend the life of the teeth.</p>
+
+<p>If you happen to be in a stage of advanced periodontal disease and your teeth cannot be saved or you have already lost your teeth, Dr. Roy can provide Dental Implant supported fixed or removable teeth. You can expect the final result to look natural, pleasing and long lasting. Dr. Roy looks at all the aspects of the smile and gum tissue and based on that he will make a customized treatment plan. In most of the situations you can get fixed teeth immediately after removing the teeth.</p>
 
 <p>A dental implant is a conservative way to replace a missing tooth. If you are missing one or more teeth, but do not like to wear full or partial denture and would prefer to leave the adjacent teeth untouched, dental implants are an excellent choice.</p>
 
