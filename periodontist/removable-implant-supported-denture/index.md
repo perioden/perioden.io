@@ -57,7 +57,7 @@ title: Removable Implant Supported Denture
 </p><p>Fixed dentures can be removed by a dentist for  professional cleaning and maintenance.
 </p>
 <h5>Removable</h5>
-<p>A removable implant-supported overdenture is created in a similar fashion to a fixed implant-supported overdenture. However,  once the dental implants are placed in your jaw, a custom-made bar will be attached to the implants to support the new overdenture.
+<p>A removable implant-supported overdenture is created in a similar fashion to a fixed implant-supported overdenture. However, once the dental implants are placed in your jaw, a custom-made bar will be attached to the implants to support the new overdenture.
 </p><p>Your new overdenture will be able to snap or clip into place, and you will be able to remove it for cleaning yourself.
 </p>
 <h5>Implant-stabilised</h5>
