@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Receding Gums and Tissue Graft
+title: Gum Grafts for Receding Gums
 ---
 
-<h4>Receding Gums and Tissue Graft</h4>
+<h4>Gum Grafts for Receding Gums</h4>
 
 
 <p>Gum plays important part in the esthetic of teeth and face. It is like a curtain which covers the roots of teeth and gives proper length to the crowns. The receded gums (lost tissue) can make the tooth appear longer and shows spaces between teeth.</p>
