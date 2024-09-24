@@ -20,8 +20,7 @@ title: Dr. Roy - Periodontist, M.Sc, DMD - Perio Dental
 <p>At Dr. Roy's Perio Dental office in Abbotsford, we try to understand what is the exact concern for each patient and come up with the best solution to meet the patient’s needs.</p>
 
 
-<h5><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc</i></h5>
-<h6><i>Certified Specialist in Periodontics</i></h6>
+<h5><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc, Certified Specialist in Periodontics</i></h5>
 
 <p>Dr. Mansur Roy has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified by the College of BC to perform intravenous conscious sedation.</p>
 
