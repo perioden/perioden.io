@@ -8,9 +8,9 @@ title: Dr. Roy - Periodontist, Perio Dental
 
 <p>
 <ul class="bullets">
-<li>Dental Implants: Dr. Roy is a periodontist who specializes in dental implant treatments to replace missing teeth, with a focus on soft tissue esthetics and maintaining healthy gums around implants.</li>
-<li>Gum Disease & Oral Tissue Surgeries: Dr. Roy treats gum diseases and performs esthetic and plastic surgeries of oral tissue. He also provides Gum Grafts for Receding Gums and Bone Grafts for Dental Implants.</li>
-<li>IV Sedation: Perio Dental clinic is equipped with intravenous (IV) sedation facilities to ensure comfort during treatment.</li>
+<li><b>Dental Implants</b>: Dr. Roy is a periodontist who specializes in dental implant treatments to replace missing teeth, with a focus on soft tissue esthetics and maintaining healthy gums around implants.</li>
+<li><b>Gum Disease & Oral Tissue Surgeries</b>: Dr. Roy treats gum diseases and performs esthetic and plastic surgeries of oral tissue. He also provides Gum Grafts for Receding Gums and Bone Grafts for Dental Implants.</li>
+<li><b>IV Sedation</b>: Perio Dental clinic is equipped with intravenous (IV) sedation facilities to ensure comfort during treatment.</li>
 </ul></p>
 
 <p>Dr. Roy's mission is to provide comprehensive, conservative and excellent treatment procedures in keeping with the highest standard of periodontal and dental implant treatment care. He is committed to using state of the art dental technology in his practice.</p>
