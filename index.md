@@ -28,7 +28,7 @@ title: Dr. Roy - Periodontist, Perio Dental
 
 <h5><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc, Certified Specialist in Periodontics</i></h5>
 
-<p><iframe width="672" height="378" src="https://www.youtube.com/embed/HrIa0wbiZlw?controls=0&rel=0&enablejsapi=1" title="Treatments offered by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><iframe width="672" height="378" src="https://www.youtube.com/embed/HrIa0wbiZlw?controls=1&rel=0&enablejsapi=1" title="Treatments offered by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <p>Dr. Mansur Roy has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified by the College of BC to perform intravenous conscious sedation.</p>
