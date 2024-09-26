@@ -5,10 +5,7 @@ title: Gum Grafts for Receding Gums
 
 <h4>Gum Grafts for Receding Gums</h4>
 
-<p>
-<br />
-<img alt="Receding gums before and after" src="/images/Receding-gums.jpg" />
-</p>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011422201?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dr. Roy - Periodontist, M.Sc, DMD - Perio Dental Welcome Video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 <p>Gum plays important part in the esthetic of teeth and face. It is like a curtain which covers the roots of teeth and gives proper length to the crowns. The receded gums (lost tissue) can make the tooth appear longer and shows spaces between teeth.</p>
 <p>Gum recession is treated with gum grafts. There are various techniques and materials used with gum grafts.</p>
@@ -36,21 +33,11 @@ These materials are processed with sophisticated techniques in the lab and is sa
 <p>The Results of grafting procedures can be further enhanced with the addition of biological engineered materials such as EMD (Emdogain) The roots and the tissue are treated with proteins, derived from developing teeth buds of animals or growth factors which can stimulate the body cells to grow in the deficient area.
 </p>
 
+<p>
+<br />
+<img alt="Receding gums before and after" src="/images/Receding-gums.jpg" />
+</p>
 
-
-
-<p></p>
-<h5><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc</i></h5>
-<h5><i>Doctor of Dental Medicine, Master of Science, Diploma in Periodontics</i></h5>
-<h6><i>Certified Specialist in Periodontics</i></h6>
-
-<p>Dr. Mansur Roy is a Periodontist. He has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified by the College of BC to perform intravenous conscious sedation.</p>
-
-<p>After practicing Dentistry for several years in India, he completed his graduation in Dentistry at University of British Columbia (UBC) where he received an Award in Prosthodontics. He continued his studies in United States for three years where he received his Masters Degree in Periodontics.  His subject of research was bone and tissue grafts with bio engineered materials.</p>
-
-<p>He is one of the founding member and past president of Implant Society in India which served continuing education to dentists.</p>
-
-<p>Preserving and developing natural tissue esthetics in the treatment of Dental implants and Periodontics is his primary interest. He has provided seminars in the subject of Periodontics and Dental Implants to dentists.</p>
 
 <h4>Guided Tissue Regeneration</h4>
 <p></p>
@@ -76,3 +63,20 @@ These materials are processed with sophisticated techniques in the lab and is sa
 </p>
 <p>All these problems can be corrected with periodontal plastic surgery at Valley Periodontics and Dental Implants, where we utilize techniques like grafts, flap surgeries, etc.
 </p>
+
+
+<p></p>
+<h5><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc</i></h5>
+<h5><i>Doctor of Dental Medicine, Master of Science, Diploma in Periodontics</i></h5>
+<h6><i>Certified Specialist in Periodontics</i></h6>
+
+<p><iframe width="672" height="378" src="https://www.youtube.com/embed/HrIa0wbiZlw?controls=1&rel=0&enablejsapi=1" title="Treatments offered by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<p>Dr. Mansur Roy is a Periodontist. He has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified by the College of BC to perform intravenous conscious sedation.</p>
+
+<p>After practicing Dentistry for several years in India, he completed his graduation in Dentistry at University of British Columbia (UBC) where he received an Award in Prosthodontics. He continued his studies in United States for three years where he received his Masters Degree in Periodontics.  His subject of research was bone and tissue grafts with bio engineered materials.</p>
+
+<p>He is one of the founding member and past president of Implant Society in India which served continuing education to dentists.</p>
+
+<p>Preserving and developing natural tissue esthetics in the treatment of Dental implants and Periodontics is his primary interest. He has provided seminars in the subject of Periodontics and Dental Implants to dentists.</p>
