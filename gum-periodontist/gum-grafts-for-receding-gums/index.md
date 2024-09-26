@@ -3,7 +3,7 @@ layout: default
 title: Gum Grafts for Receding Gums
 ---
 
-<h4>Gum Grafts for Receding Gums</h4>
+<h3>Gum Grafts for Receding Gums</h3>
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011422201?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dr. Roy - Periodontist, M.Sc, DMD - Perio Dental Welcome Video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
