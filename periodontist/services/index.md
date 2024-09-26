@@ -3,12 +3,6 @@ layout: default
 title: Services
 ---
 
----
-layout: default
-title: Services
-permalink: /services/
----
-
 <section>
   <h3>Our Services</h3>
   <p>At Perio Dental, we offer a wide range of specialized services to address your dental health needs.</p>
