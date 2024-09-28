@@ -5,7 +5,7 @@ title: Gum Grafts for Receding Gums
 
 <h3>Gum Grafts for Receding Gums</h3>
 
-<p><iframe width="672" height="378" src="https://www.youtube.com/embed/HrIa0wbiZlw?controls=1&rel=0&enablejsapi=1" title="Gum Grafts for Receding Gums" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><iframe width="672" height="378" src="https://www.youtube.com/embed/cP-rR8wqrtY?controls=1&rel=0&enablejsapi=1" title="Dr. Roy - Perio Dental & Implants" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <p>Gum plays important part in the esthetic of teeth and face. It is like a curtain which covers the roots of teeth and gives proper length to the crowns. The receded gums (lost tissue) can make the tooth appear longer and shows spaces between teeth.</p>
