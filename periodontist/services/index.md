@@ -21,25 +21,25 @@ title: Services
 
 <h4>Grafts</h4>
 <ul>
-  <li><a class="one" href="/periodontist/bone-graft/index.html" itemprop="url">Bone Graft</a></li>
-  <li><a class="two" href="/periodontist/gum-grafts-for-receding-gums/index.html" itemprop="url">Gum Graft</a></li>
+  <li><a class="one" href="/periodontist/bone-graft/index.html" itemprop="url">Bone graft</a></li>
+  <li><a class="two" href="/periodontist/gum-grafts-for-receding-gums/index.html" itemprop="url">Gum graft</a></li>
   <li><a class="one" href="/periodontist/allograft/index.html" itemprop="url">Allograft</a></li>
-  <li><a class="two" href="/periodontist/lateral-pedicle-graft/index.html" itemprop="url">Lateral Pedicle Graft</a></li>
-  <li><a class="one" href="/periodontist/connective-tissue-graft/index.html" itemprop="url">Connective Tissue Graft</a></li>
-  <li><a class="two" href="/periodontist/enhancing-the-results-of-grafts-with-biological-engineered-materials/index.html" itemprop="url">Enhancing Gum and Bone Grafts with Bioengineered Materials</a></li>
+  <li><a class="two" href="/periodontist/lateral-pedicle-graft/index.html" itemprop="url">Lateral pedicle graft</a></li>
+  <li><a class="one" href="/periodontist/connective-tissue-graft/index.html" itemprop="url">Connective tissue graft</a></li>
+  <li><a class="two" href="/periodontist/enhancing-the-results-of-grafts-with-biological-engineered-materials/index.html" itemprop="url">Enhancing gum and bone grafts with bioengineered materials</a></li>
 </ul>
 
 <h4>Periodontal Treatments</h4>
 <ul>
-  <li><a class="one" href="/periodontist/bone-and-tissue-loss-after-extraction/index.html" itemprop="url">Preventing Bone and Tissue Loss after Extraction</a></li>
-  <li><a class="two" href="/periodontist/atraumatic-extraction/index.html" itemprop="url">Atraumatic Extraction</a></li>
-  <li><a class="one" href="/periodontist/socket-preservation/index.html" itemprop="url">Socket Preservation</a></li>
-  <li><a class="two" href="/periodontist/gum-grafts-for-receding-gums/index.html" itemprop="url">Receding Gums</a></li>
+  <li><a class="one" href="/periodontist/bone-and-tissue-loss-after-extraction/index.html" itemprop="url">Preventing bone and tissue loss after extraction</a></li>
+  <li><a class="two" href="/periodontist/atraumatic-extraction/index.html" itemprop="url">Atraumatic extraction</a></li>
+  <li><a class="one" href="/periodontist/socket-preservation/index.html" itemprop="url">Socket preservation</a></li>
+  <li><a class="two" href="/periodontist/gum-grafts-for-receding-gums/index.html" itemprop="url">Receding gums</a></li>
   <li><a class="one" href="/periodontist/periodontitis/index.html" itemprop="url">Periodontitis</a></li>
-  <li><a class="two" href="/periodontist/muco-gingival-problems/index.html" itemprop="url">Muco Gingival Problems</a></li>
+  <li><a class="two" href="/periodontist/muco-gingival-problems/index.html" itemprop="url">Muco gingival problems</a></li>
   <li><a class="one" href="/periodontist/gingivitis/index.html" itemprop="url">Gingivitis</a></li>
   <li><a class="two" href="/periodontist/frenectomy/index.html" itemprop="url">Frenectomy</a></li>
-  <li><a class="one" href="/periodontist/sinus-lift-surgery/index.html" itemprop="url">Sinus Lift Surgery</a></li>
+  <li><a class="one" href="/periodontist/sinus-lift-surgery/index.html" itemprop="url">Sinus Lift surgery</a></li>
   <li><a class="two" href="/periodontist/guided-tissue-regeneration/index.html" itemprop="url">Guided Tissue Regeneration</a></li>
 </ul>
 
