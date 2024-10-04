@@ -2,7 +2,8 @@
 layout: default
 title: Services
 ---
-<div style="background-color: white; color: black; url() center; padding: 8%; !important" > 
+<div style="background-color: white; color: black; url() center; padding: 8%; h1, h2, h3, h4, h5, h6 {
+        color: black}; !important" > 
 <section>
   <h3>Our Services</h3>
   <p>At Perio Dental, we offer a wide range of specialized services to address your dental health needs.</p>
