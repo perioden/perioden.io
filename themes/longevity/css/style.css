@@ -314,7 +314,7 @@
     /* background-color: #1171AF; */
     background-color: black;
     color: #fff;
-    padding: 5px 10px;
+    padding: 5px 15px;
     font-size: 12px;
     font-weight: bold; }
 
@@ -322,7 +322,7 @@
   .floating-button {
     right: -44px; }
     .floating-button a {
-      font-size: 14px; } }
+      font-size: 12px; } }
 .gallery {
   overflow: hidden;
   margin-bottom: 28px;
