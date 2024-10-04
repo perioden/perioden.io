@@ -2,7 +2,7 @@
 layout: default
 title: Services
 ---
-<div style="background-color: white; color: black; url() center; !important" > 
+<div style="background-color: white; color: black; url() center; padding: 8%; !important" > 
 <style type="text/css">
 h1, h2, h3, h4, h5, h6 {color: black};
 </style>
