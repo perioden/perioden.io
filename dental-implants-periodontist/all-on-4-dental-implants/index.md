@@ -8,7 +8,7 @@ title: All-on-4 Dental Implants
 <p><iframe width="672" height="378" src="https://www.youtube.com/embed/cP-rR8wqrtY?controls=1&rel=0&enablejsapi=1" title="Dental Implants by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<h4>All-on-4: A Transformative Solution for Complete Smile Restoration</h4>
+<h4>All-on-4 Implants: A Transformative Solution for Complete Smile Restoration</h4>
 
 <p>The pursuit of a confident and functional smile is an essential aspect of overall well-being and self-esteem. However, tooth loss can significantly impact a person's quality of life, affecting their ability to eat, speak, and feel confident in social situations. In recent years, significant advancements in dental technology have paved the way for innovative solutions, and one such revolutionary approach is the <strong>"All-on-4" dental implant technique</strong>. </p>
 
