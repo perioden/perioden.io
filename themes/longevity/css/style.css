@@ -314,15 +314,15 @@
     /* background-color: #1171AF; */
     background-color: black;
     color: #fff;
-    padding: 10px 20px;
-    font-size: 14px;
+    padding: 5px 10px;
+    font-size: 12px;
     font-weight: bold; }
 
 @media (min-width: 1154px) {
   .floating-button {
     right: -44px; }
     .floating-button a {
-      font-size: 18px; } }
+      font-size: 14px; } }
 .gallery {
   overflow: hidden;
   margin-bottom: 28px;
