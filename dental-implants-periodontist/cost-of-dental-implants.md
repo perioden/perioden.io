@@ -52,15 +52,7 @@ title: Cost of Dental Implants
 <h5>Cost effectiveness of Implants</h5>
 <p>Don’t be misled by the initial savings on conventional replacement like Bridge. Besides all the other advantages of Dental Implants over Bridge, there is monetary gain as well.  If you were to compare the total cost between replacing missing teeth with Implants and conventional Bridge, studies have shown that in the long run Implants supported replacement turns out to be economical than the conventional Bridge. It is similar to choosing Electric or Hybrid car over conventional car.
 </p>
-<h5>Straumann implant solutions. Quality return on investment</h5>
-<p>Your health is your wealth, and Straumann dental implant solutions provide:
-<ul class="bullets">
-<li> Better quality of life</li>
-<li> Comfort and convenience</li>
-<li> Improved oral health and physical appearance</li></ul></p>
-<p>You cannot put a value on one’s health; however, there is a monetary aspect when it comes to deciding between dental implants and conventional restorations. Interestingly, studies suggest that implants may be less expensive
-in the long term.
-</p>
+
 <h5>Long-term cost efficiency</h5>
 <p>In terms of cost-effectiveness, scientific studies came to significant conclusions:</p>
 <p>For single-tooth replacement, a single implant is to be regarded as a cost-effective treatment option in comparison to a traditional 3-unit fixed dental prosthesis. <i>See: Priest, GF, Priest JE. The Economics Of Implants For Single Missing Teeth. Dental Economics 2004;94(5):130-138.</i></p>
