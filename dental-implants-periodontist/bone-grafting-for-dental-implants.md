@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Bone Graft
+title: Bone Grafting for Dental Implants
 ---
-<h3>Bone Graft</h3>
+<h3>Bone Graft for Dental Implants</h3>
 
 <p><iframe width="672" height="378" src="https://www.youtube.com/embed/cP-rR8wqrtY?controls=1&rel=0&enablejsapi=1" title="Dr. Roy - Perio Dental & Implants" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
