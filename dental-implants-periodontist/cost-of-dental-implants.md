@@ -70,7 +70,7 @@ For the replacement of multiple teeth, dental implant protheses were associated 
 <h3>Dental Implants</h3>
 <p></p>
 
-<p>Dr. Roy has taken several years of advanced training in Dental Implants and have provided long term successful Dental Implants with high esthetic results in number of patients. He use guided surgery which is planned digitally and allows a precise surgical placement of implants. An Implant placed in the centre of the missing tooth allows proper distribution of the chewing load and gives pleasant look. </p>
+<p>Dr. Roy has taken several years of advanced training in Dental Implants and have provided long term successful Dental Implants with high esthetic results in number of patients. He use <b>guided surgery</b> which is planned digitally and allows a <b>precise surgical placement of implants</b>. An Implant placed in the centre of the missing tooth allows proper distribution of the chewing load and gives pleasant look. </p>
 
 <p>Replacing teeth with Dental Implants is a better treatment than many other traditional methods. The implants are screw like structure which are placed within the jaw bone. The implants act like the roots of teeth and provide support to the crown (missing teeth). The results with dental implants look, feel and function like natural teeth. </p>
 
@@ -95,7 +95,7 @@ For the replacement of multiple teeth, dental implant protheses were associated 
 <h5>Cost Benefit</h5>
 <p>Dental Implants can improve your smile and your smile is your best investment.</p>
 
-<h5>Confidence and psychological benefits</h5>
+<h5>Psychological benefits</h5>
 <p>Knowing that we have replaced a missing tooth which is close to natural teeth in many ways boosts our confidence and self dignity.</p>
 
 
