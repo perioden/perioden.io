@@ -6,7 +6,7 @@ title: Fixed Implant Supported Dentures, Removable Implant Supported Dentures an
 <h4>Fixed Implant Supported Dentures, Removable Implant Supported Dentures and Conventional Dentures</h4>
 <p></p>
 
-Dr. Roy offers fixed dental implant supported dentures, removable implant supported dentures and conventional dentures.
+Dr. Roy offers fixed implant supported dentures, removable implant supported dentures and conventional dentures.
 
 <p><iframe width="672" height="378" src="https://www.youtube.com/embed/cP-rR8wqrtY?controls=1&rel=0&enablejsapi=1" title="Dr. Roy - Perio Dental & Implants" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
