@@ -11,7 +11,7 @@ Dr. Roy offers fixed dental implant supported dentures, removable implant suppor
 <p><iframe width="672" height="378" src="https://www.youtube.com/embed/cP-rR8wqrtY?controls=1&rel=0&enablejsapi=1" title="Dr. Roy - Perio Dental & Implants" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<h5>Fixed Dental Implant Supported Dentures</h5>
+<h5>Fixed Implant Supported Dentures</h5>
 
 <p>Conventional dentures have a tendency to come loose because of the ineffectiveness of dental adhesives—but with implant supported dentures, that ceases to be a problem.</p>
 
