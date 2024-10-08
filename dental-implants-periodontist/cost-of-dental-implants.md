@@ -5,7 +5,7 @@ title: Cost of Dental Implants
 <h2>Cost of Dental Implants</h2>
 
 <h4>The Real Cost of Dental Implants: Why Quality Matters</h4>
-<p>When considering dental implants, the cost is often the first question on a patient’s mind. At Perio Dental, we understand this concern and aim to offer transparency, quality, and value in our treatments. While the price may vary depending on individual circumstances, <b><i>we can assure you that our costs are fair and, more importantly, an investment in long-term oral health and lasting results.</i></b></p>
+<p>When considering dental implants, the cost is often the first question on a patient’s mind. At Perio Dental, we understand this concern and aim to offer transparency, quality, and value in our treatments. While the price may vary depending on individual circumstances, <b>we can assure you that our costs are fair and, more importantly, an investment in long-term oral health and lasting results.</b></p>
 
 <p><iframe width="672" height="378" src="https://www.youtube.com/embed/cP-rR8wqrtY?controls=1&rel=0&enablejsapi=1" title="Dr. Roy - Perio Dental & Implants" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
