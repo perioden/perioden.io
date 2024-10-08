@@ -9,15 +9,18 @@ title: Cost of Dental Implants
   <h4>The Real Cost of Dental Implants: Why Quality Matters</h4>
   <p>When considering dental implants, the cost is often the first question on a patient’s mind. At Perio Dental, we understand this concern and aim to offer transparency, quality, and value in our treatments. While the price may vary depending on individual circumstances, <b><i>we can assure you that our costs are fair and, more importantly, an investment in long-term oral health and lasting results.</i></b></p>
 
-  <h5>Why Costs Can Vary</h5>
-  <p>The cost of dental implants isn't one-size-fits-all because every patient’s needs are unique. Factors like the number of implants, whether extractions or bone grafting are necessary, and the complexity of the case all affect pricing. For example, while a single implant might appear to have a higher cost, multiple implants done during the same visit can reduce the overall price per implant.</p>
-  
-  <p>At Perio Dental, for dental implants we follow the <strong>BCDA Fee Guide for general dentists</strong>, ensuring that our pricing stays within a fair and competitive range. This guide gives an average range of prices, from high to low, and Dr. Roy’s rates sit comfortably in the middle. While Dr. Roy is a certified specialist in Periodontics, he chooses not to charge the higher dental implant fees recommended for specialists, making his services accessible to a wider range of patients.</p>
+<h4>The Real Cost of Dental Implants: Why Quality Matters</h4>
+<p>When considering dental implants, the cost is often the first question on a patient’s mind. At Perio Dental, we understand this concern and aim to offer transparency, quality, and value in our treatments. While the price may vary depending on individual circumstances, <b><i>we can assure you that our costs are fair and, more importantly, an investment in long-term oral health and lasting results.</i></b></p>
 
-  <h5>Why Choose Dr. Mansur Roy?</h5>
-  <p>When you come to Perio Dental for dental implants, you are not only paying for the physical implant but also the expertise and care that go into ensuring a successful, long-lasting result.</p>
+<h5>Why Costs Can Vary</h5>
+<p>The cost of dental implants isn't one-size-fits-all because every patient’s needs are unique. Factors like the number of implants, whether extractions or bone grafting are necessary, and the complexity of the case all affect pricing. For example, while a single implant might appear to have a higher cost, multiple implants done during the same visit can reduce the overall price per implant.</p>
   
-  <h5>Why We Use Straumann Implants: Quality That Lasts</h5>
+<p>At Perio Dental, for dental implants we follow the <strong>BCDA Fee Guide for general dentists</strong>, ensuring that our pricing stays within a fair and competitive range. This guide gives an average range of prices, from high to low, and Dr. Roy’s rates sit comfortably in the middle. While Dr. Roy is a certified specialist in Periodontics, he chooses not to charge the higher dental implant fees recommended for specialists, making his services accessible to a wider range of patients.</p>
+
+<h5>Why Choose Dr. Mansur Roy?</h5>
+<p>When you come to Perio Dental for dental implants, you are not only paying for the physical implant but also the expertise and care that go into ensuring a successful, long-lasting result.</p>
+  
+<h5>Why We Use Straumann Implants: Quality That Lasts</h5>
 
 <p>At Perio Dental, we exclusively use <b>Straumann implants</b>, one of the most well-researched and trusted implant brands worldwide. Straumann implants have a 98.8% long-term survival rate, making them a durable and reliable choice for patients seeking quality. Think of it this way: using cheaper implant brands is like opting for a low-quality store-brand paper towel when you really need a high-end brand like Bounty. The cheaper option may work initially, but it won’t last as long or be as effective in the long run. At Perio Dental, we believe in giving our patients the best, which is why we don’t compromise on implant quality.</p>
 
@@ -29,33 +32,35 @@ title: Cost of Dental Implants
 
 <p>Dental implants, when placed by an experienced specialist like Dr. Roy, are designed to last a lifetime. While other tooth replacement options like dentures or bridges may appear cheaper upfront, they often need repair or replacement every few years, adding to the total cost over time. In contrast, dental implants offer a long-lasting solution, and when properly cared for, can remain functional for decades.</p>
 
-  <h5>Why We Don’t Provide Exact Prices Upfront</h5>
-  <p>While we understand patients often want an exact cost estimate before visiting the clinic, it is impossible to give an accurate quote without a comprehensive examination. Implant treatment varies greatly based on factors like the number of implants required, whether bone grafting is necessary, and the condition of the jawbone. A consultation is the only way to provide a personalized treatment plan and accurate pricing.</p>
+<h5>Why We Don’t Provide Exact Prices Upfront</h5>
+<p>While we understand patients often want an exact cost estimate before visiting the clinic, it is impossible to give an accurate quote without a comprehensive examination. Implant treatment varies greatly based on factors like the number of implants required, whether bone grafting is necessary, and the condition of the jawbone. A consultation is the only way to provide a personalized treatment plan and accurate pricing.</p>
+
+<h5>What You’re Really Paying For</h5>
 
 
-
-  <h5>What You’re Really Paying For</h5>
-  <p>Beyond just the implant itself, you're getting value in:</p>
-  <ul>
+<p>Beyond just the implant itself, you're getting value in:</p>
+<ul>
     <li><strong>Dr. Roy’s expertise</strong>: A certified Periodontist with advanced training, which includes years of postgraduate study in dental implants, gum health, and bone grafting. With a periodontist, you’re investing in precision and long-term success, ensuring your implant lasts for decades, not just a few years.</li>
     <li><strong>High-quality materials</strong>: Straumann Implants, designed for longevity.</li>
     <li><strong>Safety and sterilization</strong>: We go to great lengths to maintain a sterile environment to protect your investment.</li>
     <li><strong>Comprehensive care</strong>: From diagnosis to aftercare, we ensure every step of the process is handled with precision.</li>
-  </ul>
+</ul>
 
-  <p>It’s also important to note that while some practices may offer lower-cost implants, the long-term value is often reduced by lower-quality materials or insufficient expertise. In some cases, this can lead to additional costs down the line for repairs or replacements.</p>
+<p>It’s also important to note that while some practices may offer lower-cost implants, the long-term value is often reduced by lower-quality materials or insufficient expertise. In some cases, this can lead to additional costs down the line for repairs or replacements.</p>
 
-  <h5>A Long-Term Investment</h5>
-  <p>While dental implants may seem costly upfront, they provide long-term value. Dentures and bridges may be less expensive initially, but they require regular maintenance and replacement over time. Dental implants, on the other hand, can last a lifetime with proper care. This means fewer trips to the dentist and fewer costs in the long run. They also provide better jawbone support, preventing bone loss that can lead to changes in your facial structure over time.</p>
+<h5>A Long-Term Investment</h5>
 
-  <p>Moreover, dental implants improve the quality of life. They allow you to eat your favorite foods, smile confidently, and avoid the discomfort and inconvenience of traditional dentures.</p>
+<p>While dental implants may seem costly upfront, they provide long-term value. Dentures and bridges may be less expensive initially, but they require regular maintenance and replacement over time. Dental implants, on the other hand, can last a lifetime with proper care. This means fewer trips to the dentist and fewer costs in the long run. They also provide better jawbone support, preventing bone loss that can lead to changes in your facial structure over time.</p>
 
-  <h5>Ready to Learn More?</h5>
-  <p>The best way to understand the cost and value of dental implants is to schedule a consultation with Dr. Roy. At your consultation, you will receive a full examination and a personalized treatment plan tailored to your specific needs.</p>
+<p>Moreover, dental implants improve the quality of life. They allow you to eat your favorite foods, smile confidently, and avoid the discomfort and inconvenience of traditional dentures.</p>
+
+<h5>Personalized Treatment Plan</h5>
+
+<p>The best way to understand the cost and value of dental implants is to schedule a consultation with Dr. Roy. At your consultation, you will receive a full examination and a personalized treatment plan tailored to your specific needs.</p>
   
-  <p>At Perio Dental, we are committed to providing excellent care at a fair price. Contact us today to start your journey toward a healthy, beautiful smile.Contact Perio Dental today at <a href="tel:16047553366">(604) 755-3366</a> to schedule your consultation with Dr. Roy. As a specialist with years of advanced training, Dr. Roy is here to provide the highest quality dental implant treatment, using the best materials and techniques available. Your journey towards a healthy, beautiful smile here!</p>
+<p>At Perio Dental, we are committed to providing excellent care at a fair price. Contact us today to start your journey toward a healthy, beautiful smile. Contact Perio Dental today at <a href="tel:16047553366">(604) 755-3366</a> to schedule your consultation with Dr. Roy. As a specialist with years of advanced training, Dr. Roy is here to provide the highest quality dental implant treatment, using the best materials and techniques available. </p>
 
-<h4>Dental implants overview</h4>
+<h4>Dental Implants Using Guided Surgery</h4>
 
 <p>Dr. Roy has taken several years of advanced training in Dental Implants and have provided long term successful Dental Implants with high esthetic results in number of patients. He uses <b>guided surgery</b> which is planned digitally and allows a <b>precise surgical placement of implants</b>. An Implant placed in the centre of the missing tooth allows proper distribution of the chewing load and gives pleasant look. </p>
 
