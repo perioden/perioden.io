@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Fixed Implant Supported Dentures, Removable Implant Supported Dentures and Conventional Dentures
+title: Dentures
 ---
 
-<h4>Fixed Implant Supported Dentures, Removable Implant Supported Dentures and Conventional Dentures</h4>
+<h4>Dentures</h4>
 <p></p>
 
 Dr. Roy offers fixed implant supported dentures, removable implant supported dentures and conventional dentures.
