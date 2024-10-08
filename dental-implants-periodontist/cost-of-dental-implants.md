@@ -71,21 +71,7 @@ title: Cost of Dental Implants
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011422201?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dental Implants"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<h4>Advantages of Dental Implants</h4>
-<h5>Preserve bone shrinkage</h5>
-<p>One of the biggest advantages of placing a dental implant is that it preserves our bone from shrinking to a significant extent. Bone underneath the denture or a conventional bridge has no function and as a result it reduces in size. Over the time, the denture becomes loose or the tissue underneath the bridge collapse and leads to esthetic and functional problems. The rate of this bone loss is reduced dramatically with implants.</p>
 
-<h5>Prevent damage to adjacent natural teeth</h5>
-<p>Conventional bridges takes support of adjacent natural teeth and in order to make a bridge the adjacent teeth needs to cut substantially. This may lead to sensitivity. Studies have shown that a significant number of cut teeth undergo necrosis over the time which may necessitate root canal treatment.</p>
-
-<h5>Fixed teeth</h5>
-<p>There are many instances where a conventional fix bridge may not be an option especially when molars are missing at the back. Only option in conventional treatment then would be to have removable partial dentures.  Dental implants are ideal in those situations as one can have a fixed teeth.</p>
-
-<h5>Cost Benefit</h5>
-<p>Dental Implants can improve your smile and your smile is your best investment.</p>
-
-<h5>Psychological benefits</h5>
-<p>Knowing that we have replaced a missing tooth which is close to natural teeth in many ways boosts our confidence and self dignity.</p>
 
 
 <h4>Factors affecting the final Esthetic Outcome of the Dental Implants</h4>
@@ -114,6 +100,22 @@ title: Cost of Dental Implants
 <br />
 <img alt="Soft Tissue Esthetics" src="/images/Soft_Tissue_Esthetics.jpg" />
 </p>
+
+<h4>Advantages of Dental Implants</h4>
+<h5>Preserve bone shrinkage</h5>
+<p>One of the biggest advantages of placing a dental implant is that it preserves our bone from shrinking to a significant extent. Bone underneath the denture or a conventional bridge has no function and as a result it reduces in size. Over the time, the denture becomes loose or the tissue underneath the bridge collapse and leads to esthetic and functional problems. The rate of this bone loss is reduced dramatically with implants.</p>
+
+<h5>Prevent damage to adjacent natural teeth</h5>
+<p>Conventional bridges takes support of adjacent natural teeth and in order to make a bridge the adjacent teeth needs to cut substantially. This may lead to sensitivity. Studies have shown that a significant number of cut teeth undergo necrosis over the time which may necessitate root canal treatment.</p>
+
+<h5>Fixed teeth</h5>
+<p>There are many instances where a conventional fix bridge may not be an option especially when molars are missing at the back. Only option in conventional treatment then would be to have removable partial dentures.  Dental implants are ideal in those situations as one can have a fixed teeth.</p>
+
+<h5>Cost Benefit</h5>
+<p>Dental Implants can improve your smile and your smile is your best investment.</p>
+
+<h5>Psychological benefits</h5>
+<p>Knowing that we have replaced a missing tooth which is close to natural teeth in many ways boosts our confidence and self dignity.</p>
 
 <h4>Removable Implant Supported Denture</h4>
 <p></p>
