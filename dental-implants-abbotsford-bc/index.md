@@ -23,21 +23,7 @@ title: Dental implants overview
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011422201?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dental Implants"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<h4>Advantages of Dental Implants</h4>
-<h5>Preserve bone shrinkage</h5>
-<p>One of the biggest advantages of placing a dental implant is that it preserves our bone from shrinking to a significant extent. Bone underneath the denture or a conventional bridge has no function and as a result it reduces in size. Over the time, the denture becomes loose or the tissue underneath the bridge collapse and leads to esthetic and functional problems. The rate of this bone loss is reduced dramatically with implants.</p>
 
-<h5>Prevent damage to adjacent natural teeth</h5>
-<p>Conventional bridges takes support of adjacent natural teeth and in order to make a bridge the adjacent teeth needs to cut substantially. This may lead to sensitivity. Studies have shown that a significant number of cut teeth undergo necrosis over the time which may necessitate root canal treatment.</p>
-
-<h5>Fixed teeth</h5>
-<p>There are many instances where a conventional fix bridge may not be an option especially when molars are missing at the back. Only option in conventional treatment then would be to have removable partial dentures.  Dental implants are ideal in those situations as one can have a fixed teeth.</p>
-
-<h5>Cost Benefit</h5>
-<p>Dental Implants can improve your smile and your smile is your best investment.</p>
-
-<h5>Psychological benefits</h5>
-<p>Knowing that we have replaced a missing tooth which is close to natural teeth in many ways boosts our confidence and self dignity.</p>
 
 
 <h4>Factors affecting the final Esthetic Outcome of the Dental Implants</h4>
@@ -66,6 +52,21 @@ title: Dental implants overview
 <br />
 <img alt="Soft Tissue Esthetics" src="/images/Soft_Tissue_Esthetics.jpg" />
 </p>
+<h4>Advantages of Dental Implants</h4>
+<h5>Preserve bone shrinkage</h5>
+<p>One of the biggest advantages of placing a dental implant is that it preserves our bone from shrinking to a significant extent. Bone underneath the denture or a conventional bridge has no function and as a result it reduces in size. Over the time, the denture becomes loose or the tissue underneath the bridge collapse and leads to esthetic and functional problems. The rate of this bone loss is reduced dramatically with implants.</p>
+
+<h5>Prevent damage to adjacent natural teeth</h5>
+<p>Conventional bridges takes support of adjacent natural teeth and in order to make a bridge the adjacent teeth needs to cut substantially. This may lead to sensitivity. Studies have shown that a significant number of cut teeth undergo necrosis over the time which may necessitate root canal treatment.</p>
+
+<h5>Fixed teeth</h5>
+<p>There are many instances where a conventional fix bridge may not be an option especially when molars are missing at the back. Only option in conventional treatment then would be to have removable partial dentures.  Dental implants are ideal in those situations as one can have a fixed teeth.</p>
+
+<h5>Cost Benefit</h5>
+<p>Dental Implants can improve your smile and your smile is your best investment.</p>
+
+<h5>Psychological benefits</h5>
+<p>Knowing that we have replaced a missing tooth which is close to natural teeth in many ways boosts our confidence and self dignity.</p>
 
 <h4>Removable Implant Supported Denture</h4>
 <p></p>
@@ -203,15 +204,7 @@ See <a href="/periodontist/bone-graft-surgery/index.html">bone grafts for dental
 <h5>Cost effectiveness of Implants</h5>
 <p>Don’t be misled by the initial savings on conventional replacement like Bridge. Besides all the other advantages of Dental Implants over Bridge, there is monetary gain as well.  If you were to compare the total cost between replacing missing teeth with Implants and conventional Bridge, studies have shown that in the long run Implants supported replacement turns out to be economical than the conventional Bridge. It is similar to choosing Electric or Hybrid car over conventional car.
 </p>
-<h5>Straumann implant solutions. Quality return on investment</h5>
-<p>Your health is your wealth, and Straumann dental implant solutions provide:
-<ul class="bullets">
-<li> Better quality of life</li>
-<li> Comfort and convenience</li>
-<li> Improved oral health and physical appearance</li></ul></p>
-<p>You cannot put a value on one’s health; however, there is a monetary aspect when it comes to deciding between dental implants and conventional restorations. Interestingly, studies suggest that implants may be less expensive
-in the long term.
-</p>
+
 <h5>Long-term cost efficiency</h5>
 <p>In terms of cost-effectiveness, scientific studies came to significant conclusions:</p>
 <p>For single-tooth replacement, a single implant is to be regarded as a cost-effective treatment option in comparison to a traditional 3-unit fixed dental prosthesis. <i>See: Priest, GF, Priest JE. The Economics Of Implants For Single Missing Teeth. Dental Economics 2004;94(5):130-138.</i></p>

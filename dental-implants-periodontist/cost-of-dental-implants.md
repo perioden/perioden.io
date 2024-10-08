@@ -2,12 +2,10 @@
 layout: default
 title: Cost of Dental Implants
 ---
-<h3>Cost of Dental Implants</h3>
+<h2>Cost of Dental Implants</h2>
 
 <p><iframe width="672" height="378" src="https://www.youtube.com/embed/cP-rR8wqrtY?controls=1&rel=0&enablejsapi=1" title="Dr. Roy - Perio Dental & Implants" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-  <h4>The Real Cost of Dental Implants: Why Quality Matters</h4>
-  <p>When considering dental implants, the cost is often the first question on a patient’s mind. At Perio Dental, we understand this concern and aim to offer transparency, quality, and value in our treatments. While the price may vary depending on individual circumstances, <b><i>we can assure you that our costs are fair and, more importantly, an investment in long-term oral health and lasting results.</i></b></p>
 
 <h4>The Real Cost of Dental Implants: Why Quality Matters</h4>
 <p>When considering dental implants, the cost is often the first question on a patient’s mind. At Perio Dental, we understand this concern and aim to offer transparency, quality, and value in our treatments. While the price may vary depending on individual circumstances, <b><i>we can assure you that our costs are fair and, more importantly, an investment in long-term oral health and lasting results.</i></b></p>
@@ -74,10 +72,6 @@ title: Cost of Dental Implants
 
 <p>Dental Implants last longer than teeth supported bridge and are esthetically pleasing. </p>
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011422201?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dental Implants"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-
-
 
 <h4>Factors affecting the final Esthetic Outcome of the Dental Implants</h4>
 <p></p>
@@ -100,11 +94,9 @@ title: Cost of Dental Implants
 <p>Periodontists have undergone extensive training with regards to the treatment of dental implants and they are competent in managing the soft tissue around dental implants.
 </p>
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011422201?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dental Implants"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<p>
-<br />
-<img alt="Soft Tissue Esthetics" src="/images/Soft_Tissue_Esthetics.jpg" />
-</p>
+
 
 <h4>Advantages of Dental Implants</h4>
 <h5>Preserve bone shrinkage</h5>
@@ -121,6 +113,11 @@ title: Cost of Dental Implants
 
 <h5>Psychological benefits</h5>
 <p>Knowing that we have replaced a missing tooth which is close to natural teeth in many ways boosts our confidence and self dignity.</p>
+
+<p>
+<br />
+<img alt="Soft Tissue Esthetics" src="/images/Soft_Tissue_Esthetics.jpg" />
+</p>
 
 <h4>Removable Implant Supported Denture</h4>
 <p></p>
@@ -258,15 +255,7 @@ See <a href="/periodontist/bone-graft-surgery/index.html">bone grafts for dental
 <h5>Cost effectiveness of Implants</h5>
 <p>Don’t be misled by the initial savings on conventional replacement like Bridge. Besides all the other advantages of Dental Implants over Bridge, there is monetary gain as well.  If you were to compare the total cost between replacing missing teeth with Implants and conventional Bridge, studies have shown that in the long run Implants supported replacement turns out to be economical than the conventional Bridge. It is similar to choosing Electric or Hybrid car over conventional car.
 </p>
-<h5>Straumann implant solutions. Quality return on investment</h5>
-<p>Your health is your wealth, and Straumann dental implant solutions provide:
-<ul class="bullets">
-<li> Better quality of life</li>
-<li> Comfort and convenience</li>
-<li> Improved oral health and physical appearance</li></ul></p>
-<p>You cannot put a value on one’s health; however, there is a monetary aspect when it comes to deciding between dental implants and conventional restorations. Interestingly, studies suggest that implants may be less expensive
-in the long term.
-</p>
+
 <h5>Long-term cost efficiency</h5>
 <p>In terms of cost-effectiveness, scientific studies came to significant conclusions:</p>
 <p>For single-tooth replacement, a single implant is to be regarded as a cost-effective treatment option in comparison to a traditional 3-unit fixed dental prosthesis. <i>See: Priest, GF, Priest JE. The Economics Of Implants For Single Missing Teeth. Dental Economics 2004;94(5):130-138.</i></p>
