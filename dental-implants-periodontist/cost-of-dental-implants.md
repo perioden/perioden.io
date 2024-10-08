@@ -58,9 +58,9 @@ title: Cost of Dental Implants
   
 <p>At Perio Dental, we are committed to providing excellent care at a fair price. Contact us today to start your journey toward a healthy, beautiful smile. Contact Perio Dental today at <a href="tel:16047553366">(604) 755-3366</a> to schedule your consultation with Dr. Roy. As a specialist with years of advanced training, Dr. Roy is here to provide the highest quality dental implant treatment, using the best materials and techniques available. </p>
 
-<h4>Dental Implants Using Guided Surgery</h4>
+<h4>Guided Surgery for precise placement of implants</h4>
 
-<p>Dr. Roy has taken several years of advanced training in Dental Implants and have provided long term successful Dental Implants with high esthetic results in number of patients. He uses <b>guided surgery</b> which is planned digitally and allows a <b>precise surgical placement of implants</b>. An Implant placed in the centre of the missing tooth allows proper distribution of the chewing load and gives pleasant look. </p>
+<p>Dr. Roy has taken several years of advanced training in Dental Implants and have provided long term successful Dental Implants with high esthetic results in number of patients. Dr. Roy uses <b>guided surgery</b> which is planned digitally and allows a <b>precise surgical placement of implants</b>. An Implant placed in the centre of the missing tooth allows <b>proper distribution of the chewing load and gives pleasant look.</b> </p>
 
 <p>Replacing teeth with Dental Implants is a better treatment than many other traditional methods. The implants are screw like structure which are placed within the jaw bone. The implants act like the roots of teeth and provide support to the crown (missing teeth). The results with dental implants look, feel and function like natural teeth. </p>
      
