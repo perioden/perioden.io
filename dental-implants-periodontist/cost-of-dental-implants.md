@@ -62,15 +62,7 @@ title: Cost of Dental Implants
 
 <p>Dr. Roy has taken several years of advanced training in Dental Implants and have provided long term successful Dental Implants with high esthetic results in number of patients. Dr. Roy uses <b>guided surgery</b> which is planned digitally and allows a <b>precise surgical placement of implants</b>. An Implant placed in the centre of the missing tooth allows <b>proper distribution of the chewing load and gives pleasant look.</b> </p>
 
-<p>Replacing teeth with Dental Implants is a better treatment than many other traditional methods. The implants are screw like structure which are placed within the jaw bone. The implants act like the roots of teeth and provide support to the crown (missing teeth). The results with dental implants look, feel and function like natural teeth. </p>
-     
-<p>When the tooth is removed the jaw bone collapses and continue to resorb over the time. Dental Implants retards the bone resorption and hence preserve facial profile. </p>
 
-<p>The biggest advantage of dental implant over a conventional bridge is that the implant crown emerges outside the gum and is independently supported without the help of the adjacent teeth.</p>
-   
-<p>A traditional method of replacing the missing tooth is through Bridge where the artificial tooth is supported by adjacent teeth. Dental Implant is better than Bridge because there is no need to cut the natural teeth as is done for a bridge.</p>
-
-<p>Dental Implants last longer than teeth supported bridge and are esthetically pleasing. </p>
 
 
 <h4>Factors affecting the final Esthetic Outcome of the Dental Implants</h4>
@@ -99,6 +91,17 @@ title: Cost of Dental Implants
 
 
 <h4>Advantages of Dental Implants</h4>
+
+<p>Replacing teeth with Dental Implants is a better treatment than many other traditional methods. The implants are screw like structure which are placed within the jaw bone. The implants act like the roots of teeth and provide support to the crown (missing teeth). The results with dental implants look, feel and function like natural teeth. </p>
+     
+<p>When the tooth is removed the jaw bone collapses and continue to resorb over the time. Dental Implants retards the bone resorption and hence preserve facial profile. </p>
+
+<p>The biggest advantage of dental implant over a conventional bridge is that the implant crown emerges outside the gum and is independently supported without the help of the adjacent teeth.</p>
+   
+<p>A traditional method of replacing the missing tooth is through Bridge where the artificial tooth is supported by adjacent teeth. Dental Implant is better than Bridge because there is no need to cut the natural teeth as is done for a bridge.</p>
+
+<p>Dental Implants last longer than teeth supported bridge and are esthetically pleasing. </p>
+
 <h4>Preserve bone shrinkage</h4>
 <p>One of the biggest advantages of placing a dental implant is that it preserves our bone from shrinking to a significant extent. Bone underneath the denture or a conventional bridge has no function and as a result it reduces in size. Over the time, the denture becomes loose or the tissue underneath the bridge collapse and leads to esthetic and functional problems. The rate of this bone loss is reduced dramatically with implants.</p>
 
