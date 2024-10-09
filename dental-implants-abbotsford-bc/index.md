@@ -47,25 +47,22 @@ title: Dental implants overview
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011422201?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dental Implants"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 <h4>Advantages of Dental Implants</h4>
-<h5>Preserve bone shrinkage</h5>
+<h4>Preserve bone shrinkage</h4>
 <p>One of the biggest advantages of placing a dental implant is that it preserves our bone from shrinking to a significant extent. Bone underneath the denture or a conventional bridge has no function and as a result it reduces in size. Over the time, the denture becomes loose or the tissue underneath the bridge collapse and leads to esthetic and functional problems. The rate of this bone loss is reduced dramatically with implants.</p>
 
-<h5>Prevent damage to adjacent natural teeth</h5>
+<h4>Prevent damage to adjacent natural teeth</h4>
 <p>Conventional bridges takes support of adjacent natural teeth and in order to make a bridge the adjacent teeth needs to cut substantially. This may lead to sensitivity. Studies have shown that a significant number of cut teeth undergo necrosis over the time which may necessitate root canal treatment.</p>
 
-<h5>Fixed teeth</h5>
+<h4>Fixed teeth</h4>
 <p>There are many instances where a conventional fix bridge may not be an option especially when molars are missing at the back. Only option in conventional treatment then would be to have removable partial dentures.  Dental implants are ideal in those situations as one can have a fixed teeth.</p>
 
-<h5>Cost Benefit</h5>
+<h4>Cost Benefit</h4>
 <p>Dental Implants can improve your smile and your smile is your best investment.</p>
 
-<h5>Psychological benefits</h5>
+<h4>Psychological benefits</h4>
 <p>Knowing that we have replaced a missing tooth which is close to natural teeth in many ways boosts our confidence and self dignity.</p>
 
-<p>
-<br />
-<img alt="Soft Tissue Esthetics" src="/images/Soft_Tissue_Esthetics.jpg" />
-</p>
+
 
 <h4>Removable Implant Supported Denture</h4>
 <p></p>
@@ -86,10 +83,7 @@ title: Dental implants overview
 </p>
 
 
-<p>
-<br />
-<img alt="Removable Implant Supported Denture" src="/images/Removable_Implant_Supported_Denture.jpg" />
-</p>
+
 
 <h4>Dental implant site preparation</h4>
 <p></p>
@@ -139,7 +133,7 @@ See <a href="/periodontist/bone-graft-surgery/index.html">bone grafts for dental
 <p>The All-on-4 dental implant technique represents a remarkable advancement in restorative dentistry, offering individuals with missing teeth the opportunity to regain their oral functionality, aesthetic appeal, and confidence. Through a streamlined procedure that minimizes invasiveness and recovery time, patients can enjoy the benefits of a complete smile restoration in a relatively short span. All-on-4 implants not only enhance physical health but also contribute to improved mental and emotional well-being, empowering individuals to lead fulfilling lives with a radiant smile.</p>
 
 
-<h2>Peri-Implantitis</h2>
+<h3>Peri-Implantitis</h3>
 
 <p>In recent decades, dental implant technology has revolutionized the field of restorative dentistry, offering patients a durable and natural-looking solution for missing teeth. However, like any medical intervention, dental implants are not without their complications. One of the emerging challenges in implant dentistry is peri-implantitis, a condition that can significantly impact the long-term success of dental implants.</p>
 
@@ -214,7 +208,7 @@ For the replacement of multiple teeth, dental implant protheses were associated 
 
 <p>
 <br />
-<img alt="Dental implant based restoration vs conventional 3 unit bridge" src="/images/Dental_implant_based_restoration_vs_conventional_3_unit_bridge.jpg" />
+<img alt="Dental implant Cost effectiveness vs conventional 3 unit bridge" src="/images/Dental_implant_based_restoration_vs_conventional_3_unit_bridge.jpg" />
 </p>
 
 

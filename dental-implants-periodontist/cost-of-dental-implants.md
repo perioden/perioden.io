@@ -114,10 +114,6 @@ title: Cost of Dental Implants
 <h4>Psychological benefits</h4>
 <p>Knowing that we have replaced a missing tooth which is close to natural teeth in many ways boosts our confidence and self dignity.</p>
 
-<p>
-<br />
-<img alt="Soft Tissue Esthetics" src="/images/Soft_Tissue_Esthetics.jpg" />
-</p>
 
 <h4>Removable Implant Supported Denture</h4>
 <p></p>
@@ -138,10 +134,6 @@ title: Cost of Dental Implants
 </p>
 
 
-<p>
-<br />
-<img alt="Removable Implant Supported Denture" src="/images/Removable_Implant_Supported_Denture.jpg" />
-</p>
 
 <h4>Dental implant site preparation</h4>
 <p></p>
@@ -191,7 +183,7 @@ See <a href="/periodontist/bone-graft-surgery/index.html">bone grafts for dental
 <p>The All-on-4 dental implant technique represents a remarkable advancement in restorative dentistry, offering individuals with missing teeth the opportunity to regain their oral functionality, aesthetic appeal, and confidence. Through a streamlined procedure that minimizes invasiveness and recovery time, patients can enjoy the benefits of a complete smile restoration in a relatively short span. All-on-4 implants not only enhance physical health but also contribute to improved mental and emotional well-being, empowering individuals to lead fulfilling lives with a radiant smile.</p>
 
 
-<h2>Peri-Implantitis</h2>
+<h3>Peri-Implantitis</h3>
 
 <p>In recent decades, dental implant technology has revolutionized the field of restorative dentistry, offering patients a durable and natural-looking solution for missing teeth. However, like any medical intervention, dental implants are not without their complications. One of the emerging challenges in implant dentistry is peri-implantitis, a condition that can significantly impact the long-term success of dental implants.</p>
 
@@ -266,12 +258,12 @@ For the replacement of multiple teeth, dental implant protheses were associated 
 
 <p>
 <br />
-<img alt="Dental implant based restoration vs conventional 3 unit bridge" src="/images/Dental_implant_based_restoration_vs_conventional_3_unit_bridge.jpg" />
+<img alt="Dental implant Cost effectiveness vs conventional 3 unit bridge" src="/images/Dental_implant_based_restoration_vs_conventional_3_unit_bridge.jpg" />
 </p>
 
-<h4><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc</i></h4>
-<h4><i>Doctor of Dental Medicine, Master of Science, Diploma in Periodontics</i></h4>
-<h5><i>Certified Specialist in Periodontics</i></h5>
+<h5><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc</i></h5>
+<h5><i>Doctor of Dental Medicine, Master of Science, Diploma in Periodontics</i></h5>
+<h6><i>Certified Specialist in Periodontics</i></h6>
 
 <p>Dr. Mansur Roy has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified by the College of BC to perform intravenous conscious sedation.</p>
 
