@@ -5,17 +5,18 @@ title: Cost of Dental Implants
 <h2>Cost of Dental Implants</h2>
 
 
-<p>When considering dental implants, the cost is often the first question on a patient’s mind. At Perio Dental, we understand this concern and aim to offer transparency, quality, and value in our treatments. While the price may vary depending on individual circumstances, <b>we can assure you that our costs are fair and, more importantly, an investment in long-term oral health and lasting results.</b></p>
+<p>When considering dental implants, the cost is often the first question on a patient’s mind. At Perio Dental, we understand this concern and aim to offer transparency, quality, and value in our treatments. While the price may vary depending on individual circumstances, we can assure you that our costs are fair and, more importantly, an investment in long-term oral health and lasting results.</p>
 
 <p><iframe width="672" height="378" src="https://www.youtube.com/embed/cP-rR8wqrtY?controls=1&rel=0&enablejsapi=1" title="Dr. Roy - Perio Dental & Implants" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<h4>Why Costs Can Vary</h4>
+<h3>Why Costs Can Vary</h3>
+
 <p>The cost of dental implants isn't one-size-fits-all because every patient’s needs are unique. Factors like the number of implants, whether extractions or bone grafting are necessary, and the complexity of the case all affect pricing. For example, while a single implant might appear to have a higher cost, multiple implants done during the same visit can reduce the overall price per implant.</p>
   
-<p>At Perio Dental, for dental implants we follow the <strong>BCDA Fee Guide for general dentists</strong>, ensuring that our pricing stays within a fair and competitive range. This guide gives an average range of prices, from high to low, and Dr. Roy’s rates sit comfortably in the middle. While Dr. Roy is a certified specialist in Periodontics, he chooses not to charge the higher dental implant fees recommended for specialists, making his services accessible to a wider range of patients.</p>
+<p>For Dental Implants at Perio Dental, we follow the BCDA Fee Guide for general dentists, ensuring that our pricing stays within a fair and competitive range. This guide gives an average range of prices, from high to low, and Dr. Roy’s rates sit comfortably in the middle. <b><i>While Dr. Roy is a certified specialist in Periodontics, he chooses not to charge the higher dental implant fees recommended by BCDA for specialists, making his services accessible to a wider range of patients.</b></i></p>
 
-<h4>Why Choose Dr. Mansur Roy?</h4>
+<h4>Why Choose Dr. Roy?</h4>
 <p>When you come to Perio Dental for dental implants, you are not only paying for the physical implant but also the expertise and care that go into ensuring a successful, long-lasting result.</p>
   
 <h4>Why We Use Straumann Implants: Quality That Lasts</h4>
