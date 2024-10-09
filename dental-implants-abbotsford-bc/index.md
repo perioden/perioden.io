@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Dental implants overview
+title: Dental Implants
 ---
 
-<h2>Dental implants overview</h2>
+<h2>Dental Implants</h2>
 
-<h4>Guided Surgery for precise placement of implants</h4>
+<h3>Guided Surgery for precise placement of implants</h3>
 
 <p>Dr. Roy has taken several years of advanced training in Dental Implants and have provided long term successful Dental Implants with high esthetic results in number of patients. Dr. Roy uses <b>guided surgery</b> which is planned digitally and allows a <b>precise surgical placement of implants</b>. An Implant placed in the centre of the missing tooth allows <b>proper distribution of the chewing load and gives pleasant look.</b> </p>
 
@@ -14,7 +14,7 @@ title: Dental implants overview
 
 
 
-<h4>Factors affecting the final Esthetic Outcome of the Dental Implants</h4>
+<h3>Factors affecting the final Esthetic Outcome of the Dental Implants</h3>
 <p></p>
 
 <p>The biggest challenge in implant dentistry is providing gum tissue in a similar way as our natural teeth. This is because the manner in which our tissue adheres to dental implants is different than as on natural teeth.
@@ -35,6 +35,18 @@ title: Dental implants overview
 <p>Periodontists have undergone extensive training with regards to the treatment of dental implants and they are competent in managing the soft tissue around dental implants.
 </p>
 
+<h4>Dental implant site preparation</h4>
+<p></p>
+
+<p>For functional and esthetically pleasing Dental Implants, there has to be near to normal bone and soft tissue. Without a good quality and quantity of these tissue the implants may lack proper positioning, good esthetics and longevity.
+</p>
+
+<p>In many situation patients have already lost the bone. This is not surprising because the bone shrinks rapidly after the extraction. The papilla between the implant crowns and or between implant crowns and adjacent teeth is a tissue which bears great significance in esthetics. Without proper papilla, black triangular spaces are visible which are highly unaesthetic and may lead to whistling while talking. Added to this the food debris gets trapped in those area.
+</p>
+
+<p>
+See <a href="/periodontist/bone-graft-surgery/index.html">bone grafts for dental implants</a> for the treatment modalities for regeneration and preservation of hard and soft tissue. 
+</p>
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011422201?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dental Implants"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -86,18 +98,7 @@ title: Dental implants overview
 
 
 
-<h4>Dental implant site preparation</h4>
-<p></p>
 
-<p>For functional and esthetically pleasing Dental Implants, there has to be near to normal bone and soft tissue. Without a good quality and quantity of these tissue the implants may lack proper positioning, good esthetics and longevity.
-</p>
-
-<p>In many situation patients have already lost the bone. This is not surprising because the bone shrinks rapidly after the extraction. The papilla between the implant crowns and or between implant crowns and adjacent teeth is a tissue which bears great significance in esthetics. Without proper papilla, black triangular spaces are visible which are highly unaesthetic and may lead to whistling while talking. Added to this the food debris gets trapped in those area.
-</p>
-
-<p>
-See <a href="/periodontist/bone-graft-surgery/index.html">bone grafts for dental implants</a> for the treatment modalities for regeneration and preservation of hard and soft tissue. 
-</p>
 
 <h3>All-on-4 Dental Implants</h3>
 <h4>A Transformative Solution for Complete Smile Restoration</h4>
@@ -195,11 +196,11 @@ See <a href="/periodontist/bone-graft-surgery/index.html">bone grafts for dental
 
 <p>After 7 years, the costs for a single-tooth implant restoration pay off and the long-term maintenance costs are lower than for a conventional bridge.</p>
 
-<h5>Cost effectiveness of Implants</h5>
+<h4>Cost effectiveness of Implants</h4>
 <p>Don’t be misled by the initial savings on conventional replacement like Bridge. Besides all the other advantages of Dental Implants over Bridge, there is monetary gain as well.  If you were to compare the total cost between replacing missing teeth with Implants and conventional Bridge, studies have shown that in the long run Implants supported replacement turns out to be economical than the conventional Bridge. It is similar to choosing Electric or Hybrid car over conventional car.
 </p>
 
-<h5>Long-term cost efficiency</h5>
+<h4>Long-term cost efficiency</h4>
 <p>In terms of cost-effectiveness, scientific studies came to significant conclusions:</p>
 <p>For single-tooth replacement, a single implant is to be regarded as a cost-effective treatment option in comparison to a traditional 3-unit fixed dental prosthesis. <i>See: Priest, GF, Priest JE. The Economics Of Implants For Single Missing Teeth. Dental Economics 2004;94(5):130-138.</i></p>
 <p>In some situations with either non- or minimally restored teeth with sufficient bone, an implant reconstruction is recommended from an economical point of view. <i>See: Vogel R1, Smith-Palmer J, Valentine W. Evaluating the health economic implications and costeffectiveness of dental implants: a literature review.</i></p>

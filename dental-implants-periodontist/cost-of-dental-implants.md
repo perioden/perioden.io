@@ -4,7 +4,7 @@ title: Cost of Dental Implants
 ---
 <h2>Cost of Dental Implants</h2>
 
-<h4>The Real Cost of Dental Implants: Why Quality Matters</h4>
+
 <p>When considering dental implants, the cost is often the first question on a patient’s mind. At Perio Dental, we understand this concern and aim to offer transparency, quality, and value in our treatments. While the price may vary depending on individual circumstances, <b>we can assure you that our costs are fair and, more importantly, an investment in long-term oral health and lasting results.</b></p>
 
 <p><iframe width="672" height="378" src="https://www.youtube.com/embed/cP-rR8wqrtY?controls=1&rel=0&enablejsapi=1" title="Dr. Roy - Perio Dental & Implants" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -58,14 +58,12 @@ title: Cost of Dental Implants
   
 <p>At Perio Dental, we are committed to providing excellent care at a fair price. Contact us today to start your journey toward a healthy, beautiful smile. Contact Perio Dental today at <a href="tel:16047553366">(604) 755-3366</a> to schedule your consultation with Dr. Roy. As a specialist with years of advanced training, Dr. Roy is here to provide the highest quality dental implant treatment, using the best materials and techniques available. </p>
 
-<h4>Guided Surgery for precise placement of implants</h4>
+<h3>Guided Surgery for precise placement of implants</h3>
 
 <p>Dr. Roy has taken several years of advanced training in Dental Implants and have provided long term successful Dental Implants with high esthetic results in number of patients. Dr. Roy uses <b>guided surgery</b> which is planned digitally and allows a <b>precise surgical placement of implants</b>. An Implant placed in the centre of the missing tooth allows <b>proper distribution of the chewing load and gives pleasant look.</b> </p>
 
 
-
-
-<h4>Factors affecting the final Esthetic Outcome of the Dental Implants</h4>
+<h3>Factors affecting the final Esthetic Outcome of the Dental Implants</h3>
 <p></p>
 
 <p>The biggest challenge in implant dentistry is providing gum tissue in a similar way as our natural teeth. This is because the manner in which our tissue adheres to dental implants is different than as on natural teeth.
@@ -85,6 +83,20 @@ title: Cost of Dental Implants
 
 <p>Periodontists have undergone extensive training with regards to the treatment of dental implants and they are competent in managing the soft tissue around dental implants.
 </p>
+
+<h4>Dental implant site preparation</h4>
+<p></p>
+
+<p>For functional and esthetically pleasing Dental Implants, there has to be near to normal bone and soft tissue. Without a good quality and quantity of these tissue the implants may lack proper positioning, good esthetics and longevity.
+</p>
+
+<p>In many situation patients have already lost the bone. This is not surprising because the bone shrinks rapidly after the extraction. The papilla between the implant crowns and or between implant crowns and adjacent teeth is a tissue which bears great significance in esthetics. Without proper papilla, black triangular spaces are visible which are highly unaesthetic and may lead to whistling while talking. Added to this the food debris gets trapped in those area.
+</p>
+
+<p>
+See <a href="/periodontist/bone-graft-surgery/index.html">bone grafts for dental implants</a> for the treatment modalities for regeneration and preservation of hard and soft tissue. 
+</p>
+
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011422201?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dental Implants"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -138,18 +150,7 @@ title: Cost of Dental Implants
 
 
 
-<h4>Dental implant site preparation</h4>
-<p></p>
 
-<p>For functional and esthetically pleasing Dental Implants, there has to be near to normal bone and soft tissue. Without a good quality and quantity of these tissue the implants may lack proper positioning, good esthetics and longevity.
-</p>
-
-<p>In many situation patients have already lost the bone. This is not surprising because the bone shrinks rapidly after the extraction. The papilla between the implant crowns and or between implant crowns and adjacent teeth is a tissue which bears great significance in esthetics. Without proper papilla, black triangular spaces are visible which are highly unaesthetic and may lead to whistling while talking. Added to this the food debris gets trapped in those area.
-</p>
-
-<p>
-See <a href="/periodontist/bone-graft-surgery/index.html">bone grafts for dental implants</a> for the treatment modalities for regeneration and preservation of hard and soft tissue. 
-</p>
 
 <h3>All-on-4 Dental Implants</h3>
 <h4>A Transformative Solution for Complete Smile Restoration</h4>
