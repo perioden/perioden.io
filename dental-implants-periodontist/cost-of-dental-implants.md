@@ -14,7 +14,7 @@ title: Cost of Dental Implants
 
 <p>The cost of dental implants isn't one-size-fits-all because every patient’s needs are unique. Factors like the number of implants, whether extractions or bone grafting are necessary, and the complexity of the case all affect pricing. For example, while a single implant might appear to have a higher cost, multiple implants done during the same visit can reduce the overall price per implant.</p>
   
-<p>For Dental Implants at Perio Dental, we follow the BCDA Fee Guide for general dentists, ensuring that our pricing stays within a fair and competitive range. This guide gives an average range of prices, from high to low, and Dr. Roy’s rates sit comfortably in the middle. <b><i>While Dr. Roy is a certified specialist in Periodontics, he chooses not to charge the higher dental implant fees recommended by BCDA for specialists, making his services accessible to a wider range of patients.</b></i></p>
+<p>For Dental Implants at Perio Dental, we follow the BCDA Fee Guide for general dentists, ensuring that our pricing stays within a fair and competitive range. This guide gives an average range of prices, from high to low, and Dr. Roy’s rates sit comfortably in the middle. <b><i>While Dr. Roy is a certified specialist in Periodontics, he chooses not to charge the higher dental implant fees recommended by BCDA for specialists, making his services accessible to a wider range of patients.</i></b></p>
 
 <h4>Why Choose Dr. Roy?</h4>
 <p>When you come to Perio Dental for dental implants, you are not only paying for the physical implant but also the expertise and care that go into ensuring a successful, long-lasting result.</p>
