@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Periodontist in Abbotsford, BC
+title: Periodontist
 ---
 
 <h1>Certified Periodontist in Abbotsford, BC – Dr. Roy</h1>
-<p>Welcome to Perio Dental, the practice of Dr. Roy, an expert periodontist specializing in the health of your gums and supporting bone structure. With advanced training in periodontics and dental implants, Dr. Roy provides patients with the highest level of care, ensuring the health and beauty of their smiles. His focus is on restoring your gum health, protecting your teeth, and offering state-of-the-art periodontal and dental implant treatments. Whether you’re struggling with receding gums, gum disease, or need dental implants, we have the expertise to ensure that your treatment is both comfortable and successful.</p>
+<p>Welcome to Perio Dental, serving patients in Abbotsford, Mission, Langley, and Chilliwack. Dr. Roy, a certified periodontist, specializes in the health of your gums and supporting bone structure. With advanced training in periodontics and dental implants, Dr. Roy provides patients with the highest level of care, ensuring the health and beauty of their smiles. His focus is on restoring your gum health, protecting your teeth, and offering state-of-the-art periodontal and dental implant treatments. Whether you’re struggling with receding gums, gum disease, or need dental implants, we have the expertise to ensure that your treatment is both comfortable and successful.</p>
 
 <h2>What Is a Periodontist?</h2>
 <p>A periodontist is a dental specialist trained in diagnosing and treating gum disease (periodontal disease), bone loss, and performing advanced procedures like dental implants. Unlike general dentists, periodontists complete several additional years of education to become experts in both soft and hard tissues of the mouth. Periodontists are experts in managing the health of the gums and the supporting structures of teeth, such as the bone. Periodontist like Dr. Roy are highly trained in placing dental implants and providing treatments like gum grafts, crown lengthening, and bone grafting</p>
 
-<p>If you're experiencing bleeding gums, receding gums, or have been told you need a dental implant, a periodontist is the right specialist for you. Dr. Roy combines his years of experience with a commitment to using the latest technology and techniques in periodontics to give his patients the best possible outcomes.</p>
+<p>If you're in Abbotsford, Mission, Langley, or Chilliwack and experiencing bleeding gums, receding gums, or need a dental implant, a periodontist is the right specialist for you. Dr. Roy combines his years of experience with a commitment to using the latest technology and techniques in periodontics to give his patients the best possible outcomes.</p>
 
-<h2>Comprehensive Periodontal Care</h2>
+<h2>Comprehensive Periodontal Care in Abbotsford and Surrounding Areas</h2>
 <p>With years of experience and advanced certifications, Dr. Roy offers unparalleled expertise in treating complex periodontal cases and restoring healthy smiles. He also brings a compassionate approach, ensuring every patient feels comfortable during their treatment.At Perio Dental, we offer a wide range of specialized services including:</p>
 <ul>
     <li>Gum grafts to address <strong>receding gums</strong></li>
