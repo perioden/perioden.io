@@ -5,12 +5,11 @@ title: Dental Implants
 
 <h1>Dental Implants</h1>
 
-<h2>Guided Surgery for precise placement of implants</h2>
+<h2>Guided Surgery for precise placement of Dental Implants</h2>
 
-<p>Dr. Roy has taken several years of advanced training in Dental Implants and have provided long term successful Dental Implants with high esthetic results in number of patients. Dr. Roy uses <b>guided surgery</b> which is planned digitally and allows a <b>precise surgical placement of implants</b>. An Implant placed in the centre of the missing tooth allows <b>proper distribution of the chewing load and gives pleasant look.</b> </p>
+<p>Dr. Roy has taken several years of advanced training in Dental Implants and have provided long term successful Dental Implants with high esthetic results in number of patients. Dr. Roy uses guided surgery which is planned digitally and allows a precise surgical placement of implants. An Implant placed in the centre of the missing tooth allows proper distribution of the chewing load and gives pleasant look. </p>
 
-<p><iframe width="672" height="378" src="https://www.youtube.com/embed/HrIa0wbiZlw?controls=1&rel=0&enablejsapi=1" title="Dental Implants by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+
 
 
 
@@ -42,6 +41,9 @@ title: Dental Implants
 </p>
 
 <p>In many situation patients have already lost the bone. This is not surprising because the bone shrinks rapidly after the extraction. The papilla between the implant crowns and or between implant crowns and adjacent teeth is a tissue which bears great significance in esthetics. Without proper papilla, black triangular spaces are visible which are highly unaesthetic and may lead to whistling while talking. Added to this the food debris gets trapped in those area.
+</p>
+
+<p><iframe width="672" height="378" src="https://www.youtube.com/embed/HrIa0wbiZlw?controls=1&rel=0&enablejsapi=1" title="Dental Implants by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 

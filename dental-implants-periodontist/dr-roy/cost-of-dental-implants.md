@@ -7,7 +7,7 @@ title: Cost of Dental Implants
 
 <p>When considering dental implants, the cost is often the first question on a patient’s mind. At Perio Dental, we understand this concern and aim to offer transparency, quality, and value in our treatments. While the price may vary depending on individual circumstances, we can assure you that our costs are fair and, more importantly, an investment in long-term oral health and lasting results.</p>
 
-<p><iframe width="672" height="378" src="https://www.youtube.com/embed/HrIa0wbiZlw?controls=1&rel=0&enablejsapi=1" title="Dental Implants by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </p>
 
 <h2>Why Costs Can Vary</h2>
@@ -21,7 +21,7 @@ title: Cost of Dental Implants
   
 <h3>Why We Use Straumann Implants: Quality That Lasts</h3>
 
-<p>At Perio Dental, we exclusively use <b>Straumann implants</b>, one of the most well-researched and trusted implant brands worldwide. Straumann implants have a 98.8% long-term survival rate, making them a durable and reliable choice for patients seeking quality. Think of it this way: using cheaper implant brands is like opting for a low-quality store-brand paper towel when you really need a high-end brand like Bounty. The cheaper option may work initially, but it won’t last as long or be as effective in the long run. At Perio Dental, we believe in giving our patients the best, which is why we don’t compromise on implant quality.</p>
+<p>At Perio Dental, we exclusively use Straumann implants, one of the most well-researched and trusted implant brands worldwide. Straumann implants have a 98.8% long-term survival rate, making them a durable and reliable choice for patients seeking quality. Think of it this way: using cheaper implant brands is like opting for a low-quality store-brand paper towel when you really need a high-end brand like Bounty. The cheaper option may work initially, but it won’t last as long or be as effective in the long run. At Perio Dental, we believe in giving our patients the best, which is why we don’t compromise on implant quality.</p>
 
 <h3>Our Focus on Sterilization and Precision</h3>
 
@@ -61,7 +61,7 @@ title: Cost of Dental Implants
 
 <h2>Guided Surgery for precise placement of implants</h2>
 
-<p>Dr. Roy has taken several years of advanced training in Dental Implants and have provided long term successful Dental Implants with high esthetic results in number of patients. Dr. Roy uses <b>guided surgery</b> which is planned digitally and allows a <b>precise surgical placement of implants</b>. An Implant placed in the centre of the missing tooth allows <b>proper distribution of the chewing load and gives pleasant look.</b> </p>
+<p>Dr. Roy has taken several years of advanced training in Dental Implants and have provided long term successful Dental Implants with high esthetic results in number of patients. Dr. Roy uses guided surgery which is planned digitally and allows a precise surgical placement of implants. An Implant placed in the centre of the missing tooth allows proper distribution of the chewing load and gives pleasant look. </p>
 
 
 <h2>Factors affecting the final Esthetic Outcome of the Dental Implants</h2>
@@ -92,6 +92,8 @@ title: Cost of Dental Implants
 </p>
 
 <p>In many situation patients have already lost the bone. This is not surprising because the bone shrinks rapidly after the extraction. The papilla between the implant crowns and or between implant crowns and adjacent teeth is a tissue which bears great significance in esthetics. Without proper papilla, black triangular spaces are visible which are highly unaesthetic and may lead to whistling while talking. Added to this the food debris gets trapped in those area.
+</p>
+<p><iframe width="672" height="378" src="https://www.youtube.com/embed/HrIa0wbiZlw?controls=1&rel=0&enablejsapi=1" title="Dental Implants by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
