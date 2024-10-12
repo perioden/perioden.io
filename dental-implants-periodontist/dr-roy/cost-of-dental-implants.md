@@ -94,9 +94,7 @@ title: Cost of Dental Implants
 <p>In many situation patients have already lost the bone. This is not surprising because the bone shrinks rapidly after the extraction. The papilla between the implant crowns and or between implant crowns and adjacent teeth is a tissue which bears great significance in esthetics. Without proper papilla, black triangular spaces are visible which are highly unaesthetic and may lead to whistling while talking. Added to this the food debris gets trapped in those area.
 </p>
 
-<p>
-See <a href="/periodontist/bone-graft-surgery/index.html">bone grafts for dental implants</a> for the treatment modalities for regeneration and preservation of hard and soft tissue. 
-</p>
+
 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011422201?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dental Implants"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -130,6 +128,42 @@ See <a href="/periodontist/bone-graft-surgery/index.html">bone grafts for dental
 <h4>Psychological benefits</h4>
 <p>Knowing that we have replaced a missing tooth which is close to natural teeth in many ways boosts our confidence and self dignity.</p>
 
+
+<h5>Fixed Implant Supported Dentures</h5>
+
+<p>Conventional dentures have a tendency to come loose because of the ineffectiveness of dental adhesives—but with implant supported dentures, that ceases to be a problem.</p>
+
+<p>Some of the benefits of stabilising dentures with dental implants are:
+
+<ul class="bullets">
+<li>Improved speech and confidence</li>
+<li>It’s a minimally invasive procedure</li>
+<li>Ends the cost and inconvenience of denture adhesives</li>
+<li>Restores proper chewing. This allows for a better diet and improved health</li>
+<li>Helps stimulate your jaw and maintain bone structure</li>
+</ul></p>
+
+
+<h5>What to expect</h5>
+<p>During your initial consultation an x-ray will be taken and a mould of your teeth created to observe the implant position. If you do not have adequate jaw bone structure you may require a bone graft prior to surgery.</p>
+
+<p>After this we will then advise the best form of treatment (either fixed, removable or implant-stabilised) and the best way to proceed with this treatment.</p>
+
+<h4>Different types of implant supported overdentures</h4>
+
+<p>There are three different treatment options with implant supported dentures:</p>
+
+<h5>Fixed</h5>
+<p>If  all of your teeth require replacement, a custom made denture can be fitted to dental implant foundations. Once the implants are inserted and have healed, you will be fitted for an overdenture that attaches to the implants. Due to the fact that the overdenture is supported by dental implants it can help stimulate the jaw and  maintain bone mass.
+</p><p>Fixed dentures can be removed by a dentist for  professional cleaning and maintenance.
+</p>
+<h5>Removable</h5>
+<p>A removable implant-supported overdenture is created in a similar fashion to a fixed implant-supported overdenture. However,  once the dental implants are placed in your jaw, a custom-made bar will be attached to the implants to support the new overdenture.
+</p><p>Your new overdenture will be able to snap or clip into place, and you will be able to remove it for cleaning yourself.
+</p>
+<h5>Implant-stabilised</h5>
+<p>Implant-stabilised overdentures are custom created in the same manner as fixed and removable dentures. However, a smaller number of implants are used to stabilise the denture. This type of denture is able to be taken out each night to clean it.
+</p>
 
 <h4>Removable Implant Supported Denture</h4>
 <p></p>
