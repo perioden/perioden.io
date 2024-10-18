@@ -65,7 +65,7 @@ These materials are processed with sophisticated techniques in the lab and is sa
 <p>All these problems can be corrected with periodontal plastic surgery at Valley Periodontics and Dental Implants, where we utilize techniques like grafts, flap surgeries, etc.
 </p>
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011422201?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dr. Roy - Periodontist, M.Sc, DMD - Perio Dental Welcome Video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 
 <p></p>
 <h5><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc</i></h5>
@@ -81,3 +81,8 @@ These materials are processed with sophisticated techniques in the lab and is sa
 <p>He is one of the founding member and past president of Implant Society in India which served continuing education to dentists.</p>
 
 <p>Preserving and developing natural tissue esthetics in the treatment of Dental implants and Periodontics is his primary interest. He has provided seminars in the subject of Periodontics and Dental Implants to dentists.</p>
+
+
+
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011422201?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dr. Roy - Periodontist, M.Sc, DMD - Perio Dental Welcome Video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
