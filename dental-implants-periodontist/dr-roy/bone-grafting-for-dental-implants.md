@@ -2,7 +2,7 @@
 layout: default
 title: Bone Grafting for Dental Implants
 ---
-<h3>Bone Graft for Dental Implants</h3>
+<h1>Bone Graft for Dental Implants</h1>
 
 <p>The key to success of dental implants is good bone around the implant. If bone is lost then bone graft is required. Based on the type of existing bone we provide treatment for bone grafting. It can be simple bone graft such as using bone material from outside resources. In very severe bone loss a combined procedure using outside resources and your own bone gives predictable results.In some situations where the tooth has been lost for a long time or when the tooth is fractured or has gum disease, the bone width and height is deficient and bone grafting may be required.
 </p>
@@ -10,46 +10,46 @@ title: Bone Grafting for Dental Implants
 <p><iframe width="672" height="378" src="https://www.youtube.com/embed/HrIa0wbiZlw?controls=1&rel=0&enablejsapi=1" title="Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<h4>Simple Bone Graft</h4>
+<h2>Simple Bone Graft</h2>
 <p>A simple bone graft is performed when there is minor deficiency of bone. It is done with collagen membrane and particulate bone materials derived from human or animals. 
 </p>
 
-<h4>Complex Bone Graft</h4>
+<h2>Complex Bone Graft</h2>
 <p>During the Graduate studies Dr. Roy had done extensive review of bone grafting materials. He has done number of complex bone grafts with successful results. Following are the various methods by which the complex bone grafts can be performed. 
 
-<h5>Autogenous bone Graft</h5>
+<h2>Autogenous bone Graft</h2>
 <p>Autogenous bone graft involves using the patients own bone either from the jaw. Our bone has multiple bio materials such as bone morphogenic protein (BMP) which can stimulate formation of new bone. This is considered as gold standard.
 </p>
 
-<h5>Bone Split</h5>
+<h2>Bone Split</h2>
 <p>It is a technique where outer and inner side of jaw bone is expanded so that grafting can be done in between the core of the bone and in some situation simultaneous implants placement may be possible.
 </p>
 
 
-<h5>Titanium meshed membrane</h5>
+<h2>Titanium meshed membrane</h2>
 <p>Because Titanium meshed membrane has a memory it stays in desired shape and hence one can achieve predictable regeneration in desired directions.
 </p>
 
-<h5>Tenting Screws</h5>
+<h2>Tenting Screws</h2>
 <p>Tenting screws are utilized to provide extra support to collagen membrane and or titanium mesh. It prevents the collapse of the membrane. This way one can achieve greater and more predictable regeneration of bone height which is hard to achieve.
 </p>
 
-<h5>Tacking screws</h5>
+<h2>Tacking screws</h2>
 <p>Tacking screws prevents micro movement of collagen membrane and or titanium mesh, which prevents micromovement during the healing period.
 </p>
 
-<h5>Bio Engineered material</h5>
+<h2>Bio Engineered material</h2>
 <p>Bio Engineered materials such as RhBMP, PDGF enhances and stimulates the cells of our own bone. RhBMP is bone morphogenic protein derived from animal sources. PDGF is platelet derived growth factor. Both these products are known to increase the blood vessels connection as well as transmission of new osteoblasts to the healing site which are responsible for bone growth. 
 </p>
 
 
-<h4>Socket Preservation</h4>
+<h2>Socket Preservation</h2>
 <p></p>
 
 <p>Studies have shown that by performing bone grafting immediately after the extraction of tooth not only prevents the initial rapid shrinkage of bone but in some instances regenerate some of the lost height as well. This is extremely important planning in implant dentistry and goes a long way in successful implants.
 </p>
 
-<h4>Bone and Tissue Loss after Extraction</h4>
+<h2>Bone and Tissue Loss after Extraction</h2>
 <p></p>
 
 
@@ -57,7 +57,7 @@ title: Bone Grafting for Dental Implants
 </p>
 
 
-<h4>Atraumatic Extraction</h4>
+<h2>Atraumatic Extraction</h2>
 <p></p>
 
 <p>Planning for implant placement should ideally begin before the extraction. Atraumatic extraction prevents further loss of bone and tissue by using special instruments like periotomes, Piezo Electric tips etc. We utilizes these techniques on a routine basis.

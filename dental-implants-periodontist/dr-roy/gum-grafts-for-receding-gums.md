@@ -62,7 +62,7 @@ These materials are processed with sophisticated techniques in the lab and is sa
 </p>
 <p>In addition to the lack of keratinized tissue the thickness of gum is also minimal. Combined with these two factors the gum can not resist brushing pressure or chewing of abrasive food. These problems are known as muco gingival problems. In some situation, the available height of tissue from the junction of cheek and gum margin is less and the patients may find difficulty in brushing or maintaining the gingival health.
 </p>
-<p>All these problems can be corrected with periodontal plastic surgery at Valley Periodontics and Dental Implants, where we utilize techniques like grafts, flap surgeries, etc.
+<p>All these problems can be corrected with periodontal plastic surgery at Perio Dental, where we utilize techniques like grafts, flap surgeries, etc.
 </p>
 
 
