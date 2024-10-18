@@ -35,7 +35,7 @@ title: Dental Implants
 <p>Periodontists have undergone extensive training with regards to the treatment of dental implants and they are competent in managing the soft tissue around dental implants.
 </p>
 
-<h3>Dental implant site preparation</h3>
+<h2>Dental implant site preparation</h2>
 <p></p>
 
 <p>For functional and esthetically pleasing Dental Implants, there has to be near to normal bone and soft tissue. Without a good quality and quantity of these tissue the implants may lack proper positioning, good esthetics and longevity.
@@ -49,7 +49,7 @@ title: Dental Implants
 
 
 
-<h3>Advantages of Dental Implants</h3>
+<h2>Advantages of Dental Implants</h2>
 <p>Replacing teeth with Dental Implants is a better treatment than many other traditional methods. The implants are screw like structure which are placed within the jaw bone. The implants act like the roots of teeth and provide support to the crown (missing teeth). The results with dental implants look, feel and function like natural teeth. </p>
      
 <p>When the tooth is removed the jaw bone collapses and continue to resorb over the time. Dental Implants retards the bone resorption and hence preserve facial profile. </p>
@@ -59,19 +59,19 @@ title: Dental Implants
 <p>A traditional method of replacing the missing tooth is through Bridge where the artificial tooth is supported by adjacent teeth. Dental Implant is better than Bridge because there is no need to cut the natural teeth as is done for a bridge.</p>
 
 <p>Dental Implants last longer than teeth supported bridge and are esthetically pleasing. </p>
-<h3>Preserve bone shrinkage</h3>
+<h2>Preserve bone shrinkage</h2>
 <p>One of the biggest advantages of placing a dental implant is that it preserves our bone from shrinking to a significant extent. Bone underneath the denture or a conventional bridge has no function and as a result it reduces in size. Over the time, the denture becomes loose or the tissue underneath the bridge collapse and leads to esthetic and functional problems. The rate of this bone loss is reduced dramatically with implants.</p>
 
-<h3>Prevent damage to adjacent natural teeth</h3>
+<h2>Prevent damage to adjacent natural teeth</h2>
 <p>Conventional bridges takes support of adjacent natural teeth and in order to make a bridge the adjacent teeth needs to cut substantially. This may lead to sensitivity. Studies have shown that a significant number of cut teeth undergo necrosis over the time which may necessitate root canal treatment.</p>
 
-<h3>Fixed teeth</h3>
+<h2>Fixed teeth</h2>
 <p>There are many instances where a conventional fix bridge may not be an option especially when molars are missing at the back. Only option in conventional treatment then would be to have removable partial dentures.  Dental implants are ideal in those situations as one can have a fixed teeth.</p>
 
-<h3>Cost Benefit</h3>
+<h2>Cost Benefit</h2>
 <p>Dental Implants can improve your smile and your smile is your best investment.</p>
 
-<h3>Psychological benefits</h3>
+<h2>Psychological benefits</h2>
 <p>Knowing that we have replaced a missing tooth which is close to natural teeth in many ways boosts our confidence and self dignity.</p>
 
 
@@ -90,24 +90,24 @@ title: Dental Implants
 </ul></p>
 
 
-<h4>What to expect</h4>
+<h2>What to expect</h2>
 <p>During your initial consultation an x-ray will be taken and a mould of your teeth created to observe the implant position. If you do not have adequate jaw bone structure you may require a bone graft prior to surgery.</p>
 
 <p>After this we will then advise the best form of treatment (either fixed, removable or implant-stabilised) and the best way to proceed with this treatment.</p>
 
-<h3>Different types of implant supported overdentures</h3>
+<h2>Different types of implant supported overdentures</h2>
 
 <p>There are three different treatment options with implant supported dentures:</p>
 
-<h4>Fixed</h4>
+<h2>Fixed</h2>
 <p>If  all of your teeth require replacement, a custom made denture can be fitted to dental implant foundations. Once the implants are inserted and have healed, you will be fitted for an overdenture that attaches to the implants. Due to the fact that the overdenture is supported by dental implants it can help stimulate the jaw and  maintain bone mass.
 </p><p>Fixed dentures can be removed by a dentist for  professional cleaning and maintenance.
 </p>
-<h4>Removable</h4>
+<h2>Removable</h2>
 <p>A removable implant-supported overdenture is created in a similar fashion to a fixed implant-supported overdenture. However,  once the dental implants are placed in your jaw, a custom-made bar will be attached to the implants to support the new overdenture.
 </p><p>Your new overdenture will be able to snap or clip into place, and you will be able to remove it for cleaning yourself.
 </p>
-<h4>Implant-stabilised</h4>
+<h2>Implant-stabilised</h2>
 <p>Implant-stabilised overdentures are custom created in the same manner as fixed and removable dentures. However, a smaller number of implants are used to stabilise the denture. This type of denture is able to be taken out each night to clean it.
 </p>
 
@@ -145,16 +145,16 @@ title: Dental Implants
 
 
 
-<h3>Cost effectiveness of Dental Implants compared to Bridges and Dentures</h3>
+<h2>Cost effectiveness of Dental Implants compared to Bridges and Dentures</h2>
 <p></p>
 
 <p>After 7 years, the costs for a single-tooth implant restoration pay off and the long-term maintenance costs are lower than for a conventional bridge.</p>
 
-<h3>Cost effectiveness of Implants</h3>
+<h2>Cost effectiveness of Implants</h2>
 <p>Don’t be misled by the initial savings on conventional replacement like Bridge. Besides all the other advantages of Dental Implants over Bridge, there is monetary gain as well.  If you were to compare the total cost between replacing missing teeth with Implants and conventional Bridge, studies have shown that in the long run Implants supported replacement turns out to be economical than the conventional Bridge. It is similar to choosing Electric or Hybrid car over conventional car.
 </p>
 
-<h3>Long-term cost efficiency</h3>
+<h2>Long-term cost efficiency</h2>
 <p>In terms of cost-effectiveness, scientific studies came to significant conclusions:</p>
 <p>For single-tooth replacement, a single implant is to be regarded as a cost-effective treatment option in comparison to a traditional 3-unit fixed dental prosthesis. <i>See: Priest, GF, Priest JE. The Economics Of Implants For Single Missing Teeth. Dental Economics 2004;94(5):130-138.</i></p>
 <p>In some situations with either non- or minimally restored teeth with sufficient bone, an implant reconstruction is recommended from an economical point of view. <i>See: Vogel R1, Smith-Palmer J, Valentine W. Evaluating the health economic implications and costeffectiveness of dental implants: a literature review.</i></p>
@@ -168,31 +168,39 @@ For the replacement of multiple teeth, dental implant protheses were associated 
 </p>
 
 
+<h5><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc, Certified Specialist in Periodontics</i></h5>
 
-<h4><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc</i></h4>
-<h4><i>Doctor of Dental Medicine, Master of Science, Diploma in Periodontics</i></h4>
-<h6><i>Certified Specialist in Periodontics</i></h6>
 
-<p>Dr. Roy has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified by the College of BC to perform intravenous conscious sedation.</p>
+<p>Dr. Mansur Roy has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified by the College of BC to perform intravenous conscious sedation.</p>
 
-<p>After practicing Dentistry for several years in India, he completed his graduation in Dentistry at University of British Columbia where he received an Award in Prosthodontics. He continued his studies in United States for three years where he received his Masters Degree in Periodontics.  His subject of research was bone and tissue grafts with bio engineered materials.</p>
+<p>After practicing Dentistry for several years in India, he completed his graduation in Dentistry at University of British Columbia (UBC) where he received an Award in Prosthodontics. Dr. Roy used to be a part-time faculty member/instructor at UBC Dentistry after graduating, before moving to Detroit to pursue post-graduate studies.He continued his studies in United States for three years where he received his Masters Degree in Periodontics.  His subject of research was bone and gum grafts with bio-engineered materials.</p>
 
 <p>He is one of the founding member and past president of Implant Society in India which served continuing education to dentists.</p>
 
-<p>Preserving and developing natural tissue esthetics in the treatment of Dental implants and Periodontics is his primary interest. He has provided seminars in the subject of Periodontics and Dental Implants to dentists</p>
+<p>Preserving and developing natural tissue esthetics in the treatment of Dental implants and Periodontics is his primary interest. He has provided seminars in the subject of Periodontics and Dental Implants to dentists.</p>
 
 
 
-<h2>Valley Periodontics and Dental Implants, Perio Dental</h2>
 
-<p>If you happen to be in a stage of advanced periodontal disease and teeth cannot be saved or you have already lost the teeth, we can provide implant supported fix or removable teeth. You can expect the final result which will look natural and pleasing and long lasting. We look at all the aspects of smile and gum tissue and based on that we make a customized treatment plan. In most of the situations you can get fixed teeth immediately after removing the teeth.</p>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011422201?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dr. Roy - Periodontist, M.Sc, DMD - Perio Dental Welcome Video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-<p>Valley Periodontics and Dental Implants is a specialty clinic dealing with gum diseases and esthetic and plastic surgeries of oral tissue. We also provide dental implant treatment to replace missing teeth, with special emphasis on soft tissue esthetics and maintenance around the dental implants. Our clinic is also equipped with IV Sedation Facilities.</p>
 
-<p>Our mission is to provide comprehensive, conservative and excellent treatment procedures in keeping with the highest standard of periodontal and implant treatment and care. We are committed to using state of the art dental technology in our practice.</p>
+<p>
+<ul class="bullets">
+<li><b>Dental Implants</b>: Dr. Roy is a periodontist who specializes in dental implant treatments to replace missing teeth, with a focus on soft tissue esthetics and maintaining healthy gums around implants.</li>
+<li><b>Gum Disease & Oral Tissue Surgeries</b>: Dr. Roy treats gum diseases and performs esthetic and plastic surgeries of oral tissue. He also provides Gum Grafts for Receding Gums and Bone Grafts for Dental Implants.</li>
+<li><b>IV Sedation</b>: Perio Dental clinic is equipped with intravenous (IV) sedation facilities to ensure comfort during treatment.</li>
+</ul></p>
 
-<p>A dental implant is a wonderful, easy and conservative way to replace a missing tooth. If you are missing one or more teeth, but do not like to wear full or partial denture and would prefer to leave the adjacent teeth untouched, dental implants are excellent choice.</p>
+<p>Dr. Roy's mission is to provide comprehensive, conservative and excellent treatment procedures in keeping with the highest standard of periodontal and dental implant treatment care. He is committed to using state of the art dental technology in his practice.</p>
+
+<p>Every one would like to keep their natural teeth for lifelong. However, if you are suffering from silent gum disease, you may loose your teeth earlier. Dr. Roy can help in diagnosing the gum disease and treat the root cause of the disease. Using this approach will effectively treat the gum disease. You will benefit by having healthy teeth and gums, which can significantly extend the life of the teeth.</p>
+
+<p>If you happen to be in a stage of advanced periodontal disease and your teeth cannot be saved or you have already lost your teeth, Dr. Roy can provide Dental Implant supported fixed or removable teeth. You can expect the final result to look natural, pleasing and long lasting. Dr. Roy looks at all the aspects of the smile and gum tissue and based on that he will make a customized treatment plan. In most of the situations you can get fixed teeth immediately after removing the teeth.</p>
+
+<p>A dental implant is a conservative way to replace a missing tooth. If you are missing one or more teeth, but do not like to wear full or partial denture and would prefer to leave the adjacent teeth untouched, dental implants are an excellent choice.</p>
 
 <p>The cost of dental implants maybe more affordable than what you think. Our office will present all options. The best dental implant solution for one patient, may not be the best for another.</p>
 
-<p>At Valley Periodontics office in Abbotsford, we try to understand what is the exact concern for each patient and come up with the best solution to meet the patient’s needs.</p>
+<p>At Dr. Roy's Perio Dental office in Abbotsford, we try to understand what is the exact concern for each patient and come up with the best solution to meet the patient’s needs.</p>
+
