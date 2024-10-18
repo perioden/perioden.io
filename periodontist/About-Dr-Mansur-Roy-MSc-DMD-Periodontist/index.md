@@ -6,10 +6,20 @@ title: About Dr. Mansur Roy, MSc, DMD, Periodontist
 
 <h5><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc, Certified Specialist in Periodontics</i></h5>
 
-<p><iframe width="672" height="378" src="https://www.youtube.com/embed/cP-rR8wqrtY?controls=1&rel=0&enablejsapi=1" title="Dental Implants by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><iframe width="672" height="378" src="https://www.youtube.com/embed/HrIa0wbiZlw?controls=1&rel=0&enablejsapi=1" title="About Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<p>With a career spanning continents, Dr. Mansur Roy brings a wealth of experience and specialized expertise to the field of periodontics and dental implants. His journey in dentistry began with his practice in India, where he quickly rose to prominence. Driven by a passion for advanced care, Dr. Roy relocated to Canada to further his education. He graduated from the prestigious University of British Columbia (UBC), where his excellence in Prosthodontics was recognized with an award. Not content with stopping there, he pursued advanced studies in the United States, completing a Master's degree in Periodontics. His research focused on cutting-edge techniques for bone and gum tissue grafts, utilizing bio-engineered materials to enhance patient outcomes.</p>
+<p>Dr. Mansur Roy has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified by the College of BC to perform intravenous conscious sedation.</p>
+
+<p>After practicing Dentistry for several years in India, he completed his graduation in Dentistry at University of British Columbia (UBC) where he received an Award in Prosthodontics. Dr. Roy used to be a part-time faculty member/instructor at UBC Dentistry after graduating, before moving to Detroit to pursue post-graduate studies.He continued his studies in United States for three years where he received his Masters Degree in Periodontics.  His subject of research was bone and gum grafts with bio-engineered materials.</p>
+
+<p>He is one of the founding member and past president of Implant Society in India which served continuing education to dentists.</p>
+
+<p>Preserving and developing natural tissue esthetics in the treatment of Dental implants and Periodontics is his primary interest. He has provided seminars in the subject of Periodontics and Dental Implants to dentists.</p>
+
+
+
+<p>With a career spanning continents, Dr. Roy brings a wealth of experience and specialized expertise to the field of periodontics and dental implants. His journey in dentistry began with his practice in India, where he quickly rose to prominence. Driven by a passion for advanced care, Dr. Roy relocated to Canada to further his education. He graduated from the prestigious University of British Columbia (UBC), where his excellence in Prosthodontics was recognized with an award. Not content with stopping there, he pursued advanced studies in the United States, completing a Master's degree in Periodontics. His research focused on cutting-edge techniques for bone and gum tissue grafts, utilizing bio-engineered materials to enhance patient outcomes.</p>
 
 <p>Dr. Roy's commitment to continuous learning and innovation is evident in his clinical practice, where he integrates modern dental technology with time-tested techniques. This approach allows him to provide personalized care that prioritizes both function and aesthetics, especially in complex dental implant cases.</p>
 
