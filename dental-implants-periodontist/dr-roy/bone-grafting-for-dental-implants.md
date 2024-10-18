@@ -4,12 +4,10 @@ title: Bone Grafting for Dental Implants
 ---
 <h3>Bone Graft for Dental Implants</h3>
 
-<p><iframe width="672" height="378" src="https://www.youtube.com/embed/cP-rR8wqrtY?controls=1&rel=0&enablejsapi=1" title="Dr. Roy - Perio Dental & Implants" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>The key to success of dental implants is good bone around the implant. If bone is lost then bone graft is required. Based on the type of existing bone we provide treatment for bone grafting. It can be simple bone graft such as using bone material from outside resources. In very severe bone loss a combined procedure using outside resources and your own bone gives predictable results.In some situations where the tooth has been lost for a long time or when the tooth is fractured or has gum disease, the bone width and height is deficient and bone grafting may be required.
 </p>
 
-<p>The key to success of dental implants is good bone around the implant. If bone is lost then bone graft is required. Based on the type of existing bone we provide treatment for bone grafting. It can be simple bone graft such as using bone material from outside resources. In very severe bone loss a combined procedure using outside resources and your own bone gives predictable results.  </p>
-
-<p>In some situations where the tooth has been lost for a long time or when the tooth is fractured or has gum disease, the bone width and height is deficient.
+<p><iframe width="672" height="378" src="https://www.youtube.com/embed/HrIa0wbiZlw?controls=1&rel=0&enablejsapi=1" title="Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <h4>Simple Bone Graft</h4>
@@ -71,16 +69,19 @@ title: Bone Grafting for Dental Implants
 
 
 
-<h5><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc, Certified Specialist in Periodontics</i></h5>
+
+<h2><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc, Certified Specialist in Periodontics</i></h2>
 
 
 <p>Dr. Mansur Roy has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified by the College of BC to perform intravenous conscious sedation.</p>
 
-<p>After practicing Dentistry for several years in India, he completed his graduation in Dentistry at University of British Columbia (UBC) where he received an Award in Prosthodontics. He continued his studies in United States for three years where he received his Masters Degree in Periodontics.  His subject of research was bone and gum grafts with bio-engineered materials.</p>
+<p>After practicing Dentistry for several years in India, he completed his graduation in Dentistry at University of British Columbia (UBC) where he received an Award in Prosthodontics. Dr. Roy used to be a part-time faculty member/instructor at UBC Dentistry after graduating, before moving to Detroit to pursue post-graduate studies.He continued his studies in United States for three years where he received his Masters Degree in Periodontics.  His subject of research was bone and gum grafts with bio-engineered materials.</p>
 
 <p>He is one of the founding member and past president of Implant Society in India which served continuing education to dentists.</p>
 
 <p>Preserving and developing natural tissue esthetics in the treatment of Dental implants and Periodontics is his primary interest. He has provided seminars in the subject of Periodontics and Dental Implants to dentists.</p>
+
+
 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011422201?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dr. Roy - Periodontist, M.Sc, DMD - Perio Dental Welcome Video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -104,3 +105,4 @@ title: Bone Grafting for Dental Implants
 <p>The cost of dental implants maybe more affordable than what you think. Our office will present all options. The best dental implant solution for one patient, may not be the best for another.</p>
 
 <p>At Dr. Roy's Perio Dental office in Abbotsford, we try to understand what is the exact concern for each patient and come up with the best solution to meet the patient’s needs.</p>
+
