@@ -5,7 +5,8 @@ title: Dental Implants
 
 <h1>Dental Implants</h1>
 
-<h2>Guided Surgery for precise placement of Dental Implants</h2>
+
+
 
 <p>Dr. Roy has taken several years of advanced training in Dental Implants and have provided long term successful Dental Implants with high esthetic results in number of patients. Dr. Roy uses guided surgery which is planned digitally and allows a precise surgical placement of implants. An Implant placed in the centre of the missing tooth allows proper distribution of the chewing load and gives pleasant look. </p>
 

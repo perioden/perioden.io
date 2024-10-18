@@ -26,7 +26,7 @@ title: Periodontist
 <p>We take an individualized approach to every case, working closely with both patients and referring general dentists to create treatment plans that restore health and confidence in a patient’s smile.</p>
 
 <h2>Why Refer Your Patients to Dr. Roy?</h2>
-<p>General dental practitioners trust Dr. Roy’s expertise in periodontics. We understand the importance of maintaining relationships with referring dentists and assure you that we will only provide periodontal and implant treatments—no general dental services like cavity fillings. Your patients will return to you for routine dental care.</p>
+<p>We work closely with general dentists and highly value their referrals, ensuring that patients receive specialized periodontal care while their primary dental needs continue to be managed by their family dentist. This collaborative approach helps maintain comprehensive care for our patients.</p>
 <p>With his extensive background as a part-time instructor at UBC Dentistry and advanced training from the United States, Dr. Roy ensures the best treatment outcomes for challenging cases like complex bone grafts, sinus lifts, and full-mouth rehabilitation using All-on-4 implants.</p>
 <p>Dr. Roy works in close collaboration with general dentists to provide specialized care without disrupting the patient relationship. General dentists often refer patients for procedures like <strong>soft tissue grafts, crown lengthening, bone grafting,</strong> and <strong>dental implants</strong>.</p>
 <h3>Specialized Gum and Bone Treatment</h3>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dental implants overview
+title: Dental Implants overview
 ---
 
 <h3>Dental Implants</h3>
@@ -31,7 +31,7 @@ title: Dental implants overview
 <h5>Cost Benefit</h5>
 <p>Dental Implants can improve your smile and your smile is your best investment.</p>
 
-<h5>Confidence and psychological benefits</h5>
+<h5>Psychological benefits</h5>
 <p>Knowing that we have replaced a missing tooth which is close to natural teeth in many ways boosts our confidence and self dignity.</p>
 
 
