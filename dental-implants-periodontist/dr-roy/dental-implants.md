@@ -168,7 +168,7 @@ For the replacement of multiple teeth, dental implant protheses were associated 
 </p>
 
 
-<h5><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc, Certified Specialist in Periodontics</i></h5>
+<h2><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc, Certified Specialist in Periodontics</i></h2>
 
 
 <p>Dr. Mansur Roy has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified by the College of BC to perform intravenous conscious sedation.</p>
