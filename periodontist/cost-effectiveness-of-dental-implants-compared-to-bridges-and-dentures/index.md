@@ -33,3 +33,5 @@ For the replacement of multiple teeth, dental implant protheses were associated 
 <img alt="Dental implant based restoration vs conventional 3 unit bridge" src="/images/Dental_implant_based_restoration_vs_conventional_3_unit_bridge.webp" />
 </p>
 
+<h3>Links for references</h3>
+<p><i><a href="https://pubmed.ncbi.nlm.nih.gov/23527335/" target="_blank" rel="noreferrer noopener">Vogel R1, Smith-Palmer J, Valentine W. Evaluating the health economic implications and costeffectiveness of dental implants: a literature review.</a></i></p>
