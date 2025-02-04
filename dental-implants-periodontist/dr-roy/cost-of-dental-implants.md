@@ -200,6 +200,8 @@ title: Cost of Dental Implants
 <h2>Cost effectiveness of Implants</h2>
 <p>Don’t be misled by the initial savings on conventional replacement like Bridge. Besides all the other advantages of Dental Implants over Bridge, there is monetary gain as well.  If you were to compare the total cost between replacing missing teeth with Implants and conventional Bridge, studies have shown that in the long run Implants supported replacement turns out to be economical than the conventional Bridge. It is similar to choosing Electric or Hybrid car over conventional car.
 </p>
+<p>You cannot put a value on one’s health; however, there is a monetary aspect when it comes to deciding between dental implants and conventional restorations. Interestingly, studies suggest that implants may be less expensive in the long term.
+</p>
 
 <h2>Long-term cost efficiency</h2>
 <p>In terms of cost-effectiveness, scientific studies came to significant conclusions:</p>
