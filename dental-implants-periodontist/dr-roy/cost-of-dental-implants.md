@@ -224,7 +224,7 @@ For the replacement of multiple teeth, dental implant protheses were associated 
 <h2><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc, Certified Specialist in Periodontics</i></h2>
 
 
-<p>Dr. Mansur Roy has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified by the College of BC to perform intravenous conscious sedation.</p>
+<p>Dr. Mansur Roy has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified to perform intravenous conscious sedation.</p>
 
 <p>After practicing Dentistry for several years in India, he completed his graduation in Dentistry at University of British Columbia (UBC) where he received an Award in Prosthodontics. Dr. Roy used to be a part-time faculty member/instructor at UBC Dentistry after graduating, before moving to Detroit to pursue post-graduate studies.He continued his studies in United States for three years where he received his Masters Degree in Periodontics.  His subject of research was bone and gum grafts with bio-engineered materials.</p>
 
