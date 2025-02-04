@@ -55,7 +55,7 @@ title: Cost of Dental Implants
 
 <p>The best way to understand the cost and value of dental implants is to schedule a consultation with Dr. Roy. At your consultation, you will receive a full examination and a personalized treatment plan tailored to your specific needs.</p>
   
-<p>At Perio Dental, we are committed to providing excellent care at a fair price. Contact us today to start your journey toward a healthy, beautiful smile. Contact Perio Dental today at <a href="tel:16047553366">(604) 755-3366</a> to schedule your consultation with Dr. Roy. As a specialist with years of advanced training, Dr. Roy is here to provide the highest quality dental implant treatment, using the best materials and techniques available. </p>
+<p>At Perio Dental, we are committed to providing excellent care at a fair price. Contact Perio Dental today at <a href="tel:16047553366">(604) 755-3366</a> to schedule your consultation with Dr. Roy. As a specialist with years of advanced training, Dr. Roy is here to provide the highest quality dental implant treatment, using the best materials and techniques available. </p>
 
 <h2>Guided Surgery for precise placement of implants</h2>
 
