@@ -263,7 +263,7 @@ For the replacement of multiple teeth, dental implant protheses were associated 
 
 <p>
 <br />
-<img alt="Dental implant Cost effectiveness vs conventional 3 unit bridge" src="/images/Dental_implant_based_restoration_vs_conventional_3_unit_bridge.jpg" />
+<img alt="Dental implant Cost effectiveness vs conventional 3 unit bridge" src="/images/Dental_implant_based_restoration_vs_conventional_3_unit_bridge.webp" />
 </p>
 
 <h5><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc</i></h5>
