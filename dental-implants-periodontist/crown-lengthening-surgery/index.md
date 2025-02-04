@@ -12,37 +12,37 @@ title: Crown Lengthening Surgery
 <h2>Why Might You Need Crown Lengthening?</h2>
 <p>There are several reasons why crown lengthening may be required, both for health and cosmetic purposes:</p>
 
-<h4>Restorative Needs</h4>
+<h2>Restorative Needs</h2>
 <p>If your tooth has broken near or below the gum line, or if there’s insufficient tooth structure available for placing a crown or filling, crown lengthening helps expose more of the tooth. This allows your dentist to properly restore the tooth with a crown, bridge, or filling.</p>
 
-<h4>Gummy Smile Correction</h4>
+<h2>Gummy Smile Correction</h2>
 <p>Some people have excess gum tissue covering their teeth, making their teeth appear shorter than they are. Crown lengthening can be done to remove the excess gum tissue, making your teeth look longer and creating a more balanced and aesthetically pleasing smile.</p>
 
-<h4>Cavities Below the Gum Line</h4>
+<h2>Cavities Below the Gum Line</h2>
 <p>In cases where cavities extend below the gum line, crown lengthening is required to expose more of the tooth, making it easier for the dentist to clean and restore the area.</p>
 
-<h4>Improved Oral Hygiene</h4>
+<h2>Improved Oral Hygiene</h2>
 <p>Excess gum tissue can make it difficult to properly clean between teeth and along the gum line, which increases the risk of gum disease. By reshaping the gums, crown lengthening can help improve oral hygiene and reduce the risk of periodontal issues.</p>
 
 <h2>How Is Crown Lengthening Surgery Performed?</h2>
 <p>Crown lengthening is an outpatient procedure that typically takes about an hour, depending on the number of teeth involved and the complexity of the case. At Perio Dental, Dr. Roy uses state-of-the-art equipment and techniques to ensure precision and patient comfort throughout the process. Here's what you can expect:</p>
 
-<h4>Consultation and Assessment</h4>
+<h2>Consultation and Assessment</h2>
 <p>During your initial consultation, Dr. Roy will evaluate your oral health and determine if crown lengthening is the best option for you. X-rays or scans may be taken to get a full view of the underlying bone structure.</p>
 
-<h4>Local Anesthesia</h4>
+<h2>Local Anesthesia</h2>
 <p>On the day of the procedure, local anesthesia will be administered to numb the area, ensuring a pain-free experience.</p>
 
-<h4>Reshaping the Gum Tissue</h4>
+<h2>Reshaping the Gum Tissue</h2>
 <p>Dr. Roy will carefully remove and reshape the gum tissue around the affected tooth or teeth. In some cases, a small amount of bone may also be removed to expose more of the tooth structure.</p>
 
-<h4>Sterilized Surgical Environment</h4>
+<h2>Sterilized Surgical Environment</h2>
 <p>At Perio Dental, we go to extreme lengths to maintain the highest level of cleanliness and sterilization during all surgical procedures. Not only are our instruments fully sterilized, but even the countertops are covered with sterilized paper to minimize any risk of contamination. You can trust that your safety is our top priority.</p>
 
-<h4>Suturing</h4>
+<h2>Suturing</h2>
 <p>Once the desired amount of tooth is exposed, the area will be sutured to help with healing. A protective dressing may also be placed over the gums to minimize discomfort.</p>
 
-<h4>Post-Operative Care</h4>
+<h2>Post-Operative Care</h2>
 <p>Dr. Roy will provide you with specific post-operative instructions to ensure a smooth recovery. Pain is generally minimal and can be managed with over-the-counter medications. A follow-up appointment will be scheduled to monitor healing and remove any sutures.</p>
 
 <h2>The Healing Process</h2>
