@@ -5,13 +5,10 @@ title: Dental Implants
 
 <h1>Dental Implants</h1>
 
-
-
-
 <p>Dr. Roy has taken several years of advanced training in Dental Implants and have provided long term successful Dental Implants with high esthetic results in number of patients. Dr. Roy uses guided surgery which is planned digitally and allows a precise surgical placement of implants. An Implant placed in the centre of the missing tooth allows proper distribution of the chewing load and gives pleasant look. </p>
 
-
-
+<p><iframe width="672" height="378" src="https://www.youtube.com/embed/HrIa0wbiZlw?controls=1&rel=0&enablejsapi=1" title="Dental Implants by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 
 <h2>Factors affecting the final Esthetic Outcome of the Dental Implants</h2>
@@ -35,7 +32,7 @@ title: Dental Implants
 <p>Periodontists have undergone extensive training with regards to the treatment of dental implants and they are competent in managing the soft tissue around dental implants.
 </p>
 
-<h2>Dental implant site preparation</h2>
+<h2>Dental implant site preparation: For functional & esthetically pleasing Dental Implants</h2>
 <p></p>
 
 <p>For functional and esthetically pleasing Dental Implants, there has to be near to normal bone and soft tissue. Without a good quality and quantity of these tissue the implants may lack proper positioning, good esthetics and longevity.
@@ -43,10 +40,6 @@ title: Dental Implants
 
 <p>In many situation patients have already lost the bone. This is not surprising because the bone shrinks rapidly after the extraction. The papilla between the implant crowns and or between implant crowns and adjacent teeth is a tissue which bears great significance in esthetics. Without proper papilla, black triangular spaces are visible which are highly unaesthetic and may lead to whistling while talking. Added to this the food debris gets trapped in those area.
 </p>
-
-<p><iframe width="672" height="378" src="https://www.youtube.com/embed/HrIa0wbiZlw?controls=1&rel=0&enablejsapi=1" title="Dental Implants by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
 
 
 <h2>Advantages of Dental Implants</h2>
