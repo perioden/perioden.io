@@ -31,7 +31,7 @@ title: Dr. Roy - Periodontist, Perio Dental
 <p><iframe width="672" height="378" src="https://www.youtube.com/embed/cP-rR8wqrtY?controls=1&rel=0&enablejsapi=1" title="Dental Implants by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<p>Dr. Mansur Roy has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified by the College of BC to perform intravenous conscious sedation.</p>
+<p>Dr. Mansur Roy has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified to perform intravenous conscious sedation.</p>
 
 <p>After practicing Dentistry for several years in India, he completed his graduation in Dentistry at University of British Columbia (UBC) where he received an Award in Prosthodontics. Dr. Roy used to be a part-time faculty member/instructor at UBC Dentistry after graduating, before moving to Detroit to pursue post-graduate studies.He continued his studies in United States for three years where he received his Masters Degree in Periodontics.  His subject of research was bone and gum grafts with bio-engineered materials.</p>
 
