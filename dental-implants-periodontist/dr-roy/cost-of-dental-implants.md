@@ -85,7 +85,7 @@ title: Cost of Dental Implants
 <p>Periodontists have undergone extensive training with regards to the treatment of dental implants and they are competent in managing the soft tissue around dental implants.
 </p>
 
-<h2>Dental implant site preparation</h2>
+<h2>Dental implant site preparation: For functional & esthetically pleasing Dental Implants</h2>
 <p></p>
 
 <p>For functional and esthetically pleasing Dental Implants, there has to be near to normal bone and soft tissue. Without a good quality and quantity of these tissue the implants may lack proper positioning, good esthetics and longevity.
