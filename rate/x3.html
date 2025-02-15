@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.rating-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.rating-text {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.stars-container {
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 8px;
+}
+
+.star-wrapper {
+    position: relative;
+    cursor: pointer;
+}
+
+.star-wrapper svg {
+    width: 40px;
+    height: 40px;
+    fill: #ddd;
+    transition: fill 0.2s;
+}
+
+@media (max-width: 480px) {
+    .star-wrapper svg {
+        width: 35px;
+        height: 35px;
+    }
+}
+
+.star-wrapper input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.stars-container .star-wrapper:hover svg,
+.stars-container .star-wrapper:hover ~ .star-wrapper svg,
+.stars-container .star-wrapper input:checked ~ .star-wrapper svg {
+    fill: #ffd700;
+}
+</style>
+</head>
+<body>
+<div class="rating-container">
+    <div class="rating-text">Rate Us:</div>
+    <div class="stars-container">
+        <div class="star-wrapper">
+            <input type="radio" name="rating" value="5" onclick="handleRating(5)">
+            <svg viewBox="0 0 24 24">
+                <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+            </svg>
+        </div>
+        <div class="star-wrapper">
+            <input type="radio" name="rating" value="4" onclick="handleRating(4)">
+            <svg viewBox="0 0 24 24">
+                <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+            </svg>
+        </div>
+        <div class="star-wrapper">
+            <input type="radio" name="rating" value="3" onclick="handleRating(3)">
+            <svg viewBox="0 0 24 24">
+                <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+            </svg>
+        </div>
+        <div class="star-wrapper">
+            <input type="radio" name="rating" value="2" onclick="handleRating(2)">
+            <svg viewBox="0 0 24 24">
+                <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+            </svg>
+        </div>
+        <div class="star-wrapper">
+            <input type="radio" name="rating" value="1" onclick="handleRating(1)">
+            <svg viewBox="0 0 24 24">
+                <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+            </svg>
+        </div>
+    </div>
+</div>
+
+<script>
+function handleRating(rating) {
+    const url = rating === 5 
+        ? 'https://g.page/r/CRlyhiRKFCbdEAE/review'
+        : 'https://forms.gle/7AM9CQTpSNuhbWgL7';
+    
+    const newWindow = window.open(url, '_blank');
+    newWindow.opener = null;
+    newWindow.rel = 'noreferrer noopener';
+}
+</script>
+</body>
+</html>
