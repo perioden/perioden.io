@@ -68,76 +68,6 @@ title: Dental Implants
 <p>Knowing that we have replaced a missing tooth which is close to natural teeth in many ways boosts our confidence and self dignity.</p>
 
 
-<h2>Fixed Implant Supported Dentures</h2>
-
-<p>Conventional dentures have a tendency to come loose because of the ineffectiveness of dental adhesives—but with implant supported dentures, that ceases to be a problem.</p>
-
-<p>Some of the benefits of stabilising dentures with dental implants are:
-
-<ul class="bullets">
-<li>Improved speech and confidence</li>
-<li>It’s a minimally invasive procedure</li>
-<li>Ends the cost and inconvenience of denture adhesives</li>
-<li>Restores proper chewing. This allows for a better diet and improved health</li>
-<li>Helps stimulate your jaw and maintain bone structure</li>
-</ul></p>
-
-
-<h2>What to expect</h2>
-<p>During your initial consultation an x-ray will be taken and a mould of your teeth created to observe the implant position. If you do not have adequate jaw bone structure you may require a bone graft prior to surgery.</p>
-
-<p>After this we will then advise the best form of treatment (either fixed, removable or implant-stabilised) and the best way to proceed with this treatment.</p>
-
-<h2>Different types of implant supported overdentures</h2>
-
-<p>There are three different treatment options with implant supported dentures:</p>
-
-<h2>Fixed</h2>
-<p>If  all of your teeth require replacement, a custom made denture can be fitted to dental implant foundations. Once the implants are inserted and have healed, you will be fitted for an overdenture that attaches to the implants. Due to the fact that the overdenture is supported by dental implants it can help stimulate the jaw and  maintain bone mass.
-</p><p>Fixed dentures can be removed by a dentist for  professional cleaning and maintenance.
-</p>
-<h2>Removable</h2>
-<p>A removable implant-supported overdenture is created in a similar fashion to a fixed implant-supported overdenture. However,  once the dental implants are placed in your jaw, a custom-made bar will be attached to the implants to support the new overdenture.
-</p><p>Your new overdenture will be able to snap or clip into place, and you will be able to remove it for cleaning yourself.
-</p>
-<h2>Implant-stabilised</h2>
-<p>Implant-stabilised overdentures are custom created in the same manner as fixed and removable dentures. However, a smaller number of implants are used to stabilise the denture. This type of denture is able to be taken out each night to clean it.
-</p>
-
-
-<h2>All-on-4 Dental Implants</h2>
-
-
-<p>The All-on-4 dental implant technique is a modern solution designed to replace a full arch of teeth using only four strategically placed dental implants. Unlike traditional dentures, which sit on the gums and often lead to discomfort and reduced chewing efficiency, All-on-4 implants offer a fixed, permanent solution that closely resembles natural teeth.</p>
-
-<p>The procedure involves the precise placement of two straight implants in the anterior region of the jaw and two tilted implants in the posterior region. These tilted implants provide additional support and stability, even in cases where bone density might be compromised. Once the implants are securely anchored into the jawbone, a customized prosthetic arch – typically made of high-quality materials like porcelain – is attached, completing the restoration process.</p>
-
-<h2>Benefits of All-on-4 Dental Implants</h2>
-<ul class="bullets">
-<li>Immediate Results: One of the most significant advantages of the All-on-4 technique is its ability to provide patients with a functional and esthetically pleasing smile on the same day as the implant surgery. This immediate restoration can be life-changing, allowing patients to regain their confidence and quality of life without extended waiting periods.</li>
-<li>Minimal Bone Grafting: The strategic placement of the tilted implants reduces the need for extensive bone grafting procedures, making All-on-4 implants a viable option for individuals with reduced bone density. This minimizes the complexity of the procedure and the associated recovery time.</li>
-<li>Enhanced Chewing Efficiency: All-on-4 implants provide exceptional stability, allowing patients to enjoy a wide range of foods without concerns about denture movement. This improves chewing efficiency and nutrition intake, contributing to overall health.</li>
-<li>Improved Speech: Unlike traditional dentures, which can affect speech patterns, All-on-4 implants enable patients to speak clearly and confidently, without worrying about slippage or discomfort.</li>
-<li>Long-Term Solution: With proper care and maintenance, All-on-4 dental implants can last for many years, offering a durable and reliable solution for complete smile restoration.</li>
-</ul>
-<p></p>
-
-<h2>The All-on-4 Procedure</h2>
-<p>All-on-4 dental implants involves several stages:</p>
-<ul class="bullets">
-<li>Consultation and Planning: The process begins with a comprehensive evaluation of the patient's oral health, including digital imaging and scans. This information guides the creation of a personalized treatment plan tailored to the patient's unique needs.</li>
-<li>Implant Placement: On the day of the surgery, Dr. Roy places the strategically positioned dental implants into the jawbone. This is typically performed under local anesthesia, or using IV sedation, to ensure the patient's comfort throughout the procedure.</li>
-<li>Attachment of Prosthetic Arch: Once the implants have integrated with the bone, a custom-made prosthetic arch is securely affixed to the implants. This arch is carefully designed to match the patient's natural teeth, ensuring a seamless and natural appearance.</li>
-<li>Follow-Up Care: Regular follow-up appointments are essential to monitor the healing process and make any necessary adjustments. Patients will receive guidance on proper oral hygiene practices and care to ensure the longevity of their All-on-4 implants.</li>
-</ul>
-<p></p>
-
-
-<p>The All-on-4 dental implant technique represents a remarkable advancement in restorative dentistry, offering individuals with missing teeth the opportunity to regain their oral functionality, aesthetic appeal, and confidence. Through a streamlined procedure that minimizes invasiveness and recovery time, patients can enjoy the benefits of a complete smile restoration in a relatively short span. All-on-4 implants not only enhance physical health but also contribute to improved mental and emotional well-being, empowering individuals to lead fulfilling lives with a radiant smile.</p>
-
-
-
-
 <h2>Cost effectiveness of Dental Implants compared to Bridges and Dentures</h2>
 <p></p>
 
@@ -176,8 +106,6 @@ For the replacement of multiple teeth, dental implant protheses were associated 
 <p>Preserving and developing natural tissue esthetics in the treatment of Dental implants and Periodontics is his primary interest. He has provided seminars in the subject of Periodontics and Dental Implants to dentists.</p>
 
 
-
-
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011422201?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dr. Roy - Periodontist, M.Sc, DMD - Perio Dental Welcome Video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
@@ -200,3 +128,9 @@ For the replacement of multiple teeth, dental implant protheses were associated 
 
 <p>At Dr. Roy's Perio Dental office in Abbotsford, we try to understand what is the exact concern for each patient and come up with the best solution to meet the patient’s needs.</p>
 
+<h3>For more information about specific dental implant topics, please visit:</h3>
+
+<ul class="bullets">
+<li><a href="/periodontist/all-on-4-dental-implants/index.html">All-on-4 Dental Implants</a> - Learn about this innovative solution for full arch replacement</li>
+<li><a href="/periodontist/implant-supported-dentures/index.html">Implant Supported Dentures</a> - Discover how dental implants can secure your dentures</li>
+<li><a href="/periodontist/removable-implant-supported-denture/index.html">Removable Implant Supported Denture</a> - Learn about the benefits of removable implant supported dentures</li>
