@@ -67,6 +67,9 @@ title: Dental Implants
 <h2>Psychological benefits</h2>
 <p>Knowing that we have replaced a missing tooth which is close to natural teeth in many ways boosts our confidence and self dignity.</p>
 
+<p><iframe width="672" height="378" src="https://www.youtube.com/embed/e6P04D-P3_w?controls=1&rel=0&enablejsapi=1" title="Dental Implants by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 
 <h2>Cost effectiveness of Dental Implants compared to Bridges and Dentures</h2>
 <p></p>
