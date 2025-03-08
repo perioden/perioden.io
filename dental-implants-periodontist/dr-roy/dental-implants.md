@@ -93,6 +93,7 @@ For the replacement of multiple teeth, dental implant protheses were associated 
 <p>
 <img alt="Dental implant Cost effectiveness vs conventional 3 unit bridge" src="/images/Dental_implant_cost_effectiveness_vs_conventional_3_unit_bridge.webp" />
 </p>
+
 <h3>Links for references</h3>
 <p><i><a href="https://pubmed.ncbi.nlm.nih.gov/23527335/" target="_blank" rel="noreferrer noopener">Vogel, Robert et al. “Evaluating the health economic implications and cost-effectiveness of dental implants: a literature review.” The International journal of oral & maxillofacial implants vol. 28,2 (2013): 343-56. doi:10.11607/jomi.2921</a></i></p>
 
