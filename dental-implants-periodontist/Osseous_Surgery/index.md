@@ -69,3 +69,9 @@ title: Osseous Surgery
 
 <p>If you are struggling with advanced gum disease and want to explore treatment options, schedule a consultation with Dr. Roy at Perio Dental today. Taking action now can save your teeth and improve your overall oral health for years to come.</p>
 
+<h3>Links for references</h3>
+<p><i><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9275292" target="_blank" rel="noreferrer noopener">Kwon, T., Lamster, I. B., & Levin, L. (2021). Current Concepts in the Management of Periodontitis. International dental journal, 71(6), 462–476. https://doi.org/10.1111/idj.12630</a></i></p>
+
+<p><i><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2848787/" target="_blank" rel="noreferrer noopener">Seshan, Hema et al. “Piezosurgery in periodontology and oral implantology.” Journal of Indian Society of Periodontology vol. 13,3 (2009): 155-6. doi:10.4103/0972-124X.60229</a></i></p>
+
+<p><i><a href="https://pubmed.ncbi.nlm.nih.gov/31912516/" target="_blank" rel="noreferrer noopener">Polak, David et al. “The efficacy of pocket elimination/reduction compared to access flap surgery: A systematic review and meta-analysis.” Journal of clinical periodontology vol. 47 Suppl 22 (2020): 303-319. doi:10.1111/jcpe.13246</a></i></p>
