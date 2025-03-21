@@ -13,19 +13,17 @@ title: Gum Grafts for Receding Gums
 <p>Periodontists are trained to perform fine plastic surgeries.  At Perio Dental, we use minimal invasive techniques based on current research, using microscope and fine instruments which results in a very natural looking gums and smile.</p>
 
 <h2>Gum Graft - Connective tissue graft</h2>
-<p></p>
+
 
 <p>Tissue is taken from the roof of the mouth and grafted in deficient area. This procedure is highly predictable and provides natural looking tissue. Unlike in the past when it was a painful healing process, today with micro surgical fine instruments and sutures the wound is covered by the outer skin. This makes virtually painless healing and also leads to enhanced esthetics.
 </p>
 
 <h2>Allograft or Xenograft</h2>
 
-<p>An alternative to using tissue from the roof of the mouth (autograft) is to use the donor tissue like acellular dermal matrix derived from humans (Allograft) or animal products (Xenograft) such as mucograft. The results of this is very close to the autograft (connective tissue)
-These materials are processed with sophisticated techniques in the lab and is safe. The results of allograft is equally effective with the added advantage of avoiding second surgery on the palate.
-</p>
+<p>An alternative to using tissue from the roof of the mouth (autograft) is to use the donor tissue like acellular dermal matrix derived from humans (Allograft) or animal products (Xenograft) such as mucograft. The results of this is very close to the autograft (connective tissue). These materials are processed with sophisticated techniques in the lab and is safe. The results of allograft is equally effective with the added advantage of avoiding second surgery on the palate.</p>
 
 <h2>Lateral pedicle graft</h2>
-<p></p>
+
 
 <p>Tissue is transplanted from adjacent site. Some times a combination of connective tissue graft or allograft and lateral pedicle graft is recommended for best results.
 </p>
@@ -41,7 +39,7 @@ These materials are processed with sophisticated techniques in the lab and is sa
 
 
 <h2>Guided Tissue Regeneration</h2>
-<p></p>
+
 
 <p>Periodontal science has advanced tremendously in the past 10 years. Today we can regenerate the lost tissue and bone due to periodontal disease by procedures known as Guided Tissue Regeneration.
 </p>
