@@ -35,6 +35,41 @@ title: Gum Grafts for Receding Gums
 <img alt="Receding gums before and after" src="/images/Receding-gums.webp" />
 </p>
 
+<h2>Understanding and Managing Gum Recession</h2>
+
+<p>Gingival recession is a common condition seen in daily dental practice, often causing concerns related to aesthetics, tooth sensitivity, and long-term dental health. The apical shift of the gum margin exposes the tooth root, making it vulnerable to:</p>
+
+<ul>
+  <li>Dentine hypersensitivity – Increased sensitivity to hot, cold, and sweet foods.</li>
+  <li>Aesthetic concerns – Longer-looking teeth and uneven gumlines that affect a patient’s smile.</li>
+</ul>
+
+<h2>Preventing Gum Recession with Non-Surgical Approaches</h2>
+
+<p>While surgical gum grafting is the most predictable treatment for significant gum recession, early intervention with non-surgical approaches can help prevent its progression. These include:</p>
+
+<ul>
+  <li>Professional Root Planing and Scaling – Deep cleaning to remove bacterial deposits from tooth roots, reducing inflammation and preventing further gum loss.</li>
+  <li>Plaque control and improved oral hygiene – Using a soft-bristled toothbrush and proper brushing techniques can help maintain healthy gums.</li>
+  <li>Desensitizing agents – Fluoride treatments or specialized toothpaste to reduce tooth sensitivity.</li>
+  <li>Removing overhanging dental restorations – Poorly placed fillings or crowns can contribute to gum irritation and recession.</li>
+  <li>Behavior modification – Addressing factors like aggressive brushing, tobacco use, or malocclusion (bad bite) that may be worsening the condition.</li>
+</ul>
+
+<h2>Surgical Treatment Options for Gum Recession</h2>
+
+<p>For moderate to severe gum recession, surgical intervention offers the most effective and long-lasting results. A combination of connective tissue grafting (gum grafting) and coronally positioned flaps has been shown in clinical studies to provide the highest percentage of root coverage. Other surgical approaches include:</p>
+
+<ul>
+  <li>Guided Tissue Regeneration (GTR) – This method uses bioabsorbable or nonbioabsorbable membranes to facilitate gum regrowth.</li>
+  <li>Acellular dermal matrices (Allografts) and collagen-based materials (Xenografts) – These alternatives to palate tissue harvesting offer similar outcomes without requiring a secondary surgical site.</li>
+</ul>
+
+<h2>Maintaining Gum Health Post-Treatment</h2>
+
+<p>If a patient opts out of surgery or has contraindications for invasive procedures, preventive strategies remain essential to maintain gum health. Regular check-ups, root planing, and lifestyle modifications play a key role in preventing further gum recession.</p>
+
+<p>At Perio Dental, Dr. Roy, a periodontist, provides personalized treatment plans tailored to each patient’s needs. Whether you require preventive care, non-surgical management, or advanced gum grafting, Dr. Roy can help restore your gum health and smile aesthetics.</p>
 
 <h3>Links for references</h3>
 <p><i><a href="https://pubmed.ncbi.nlm.nih.gov/34024328/" target="_blank" rel="noreferrer noopener">Imber, Jean-Claude, and Adrian Kasaj. “Treatment of Gingival Recession: When and How?.” International dental journal vol. 71,3 (2021): 178-187. doi:10.1111/idj.12617</a></i></p>
