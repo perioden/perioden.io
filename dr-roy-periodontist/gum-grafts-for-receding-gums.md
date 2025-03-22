@@ -34,7 +34,7 @@ title: Gum Grafts for Receding Gums
 
 <p>
 <br />
-<img alt="Receding gums before and after" src="/images/Receding-gums.jpg" />
+<img alt="Receding gums before and after" src="/images/Receding-gums.webp" />
 </p>
 
 
