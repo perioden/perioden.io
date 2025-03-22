@@ -34,3 +34,9 @@ title: Gum Grafts for Receding Gums
 <br />
 <img alt="Receding gums before and after" src="/images/Receding-gums.webp" />
 </p>
+
+<h3>Links for references</h3>
+<p><i><a href="https://pubmed.ncbi.nlm.nih.gov/34024328/" target="_blank" rel="noreferrer noopener">Imber, Jean-Claude, and Adrian Kasaj. “Treatment of Gingival Recession: When and How?.” International dental journal vol. 71,3 (2021): 178-187. doi:10.1111/idj.12617</a></i></p>
+<p><i><a href="https://pubmed.ncbi.nlm.nih.gov/11520586/" target="_blank" rel="noreferrer noopener">Tugnait, A, and V Clerehugh. “Gingival recession-its significance and management.” Journal of dentistry vol. 29,6 (2001): 381-94. doi:10.1016/s0300-5712(01)00035-5</a></i></p>
+<p><i><a href="https://pubmed.ncbi.nlm.nih.gov/12462693/" target="_blank" rel="noreferrer noopener">Kassab, Moawia M, and Robert E Cohen. “Treatment of gingival recession.” Journal of the American Dental Association (1939) vol. 133,11 (2002): 1499-506; quiz 1540. doi:10.14219/jada.archive.2002.0080</a></i></p>
+<p><i><a href="https://pubmed.ncbi.nlm.nih.gov/14971258/" target="_blank" rel="noreferrer noopener">Oates, Thomas W et al. “Surgical therapies for the treatment of gingival recession. A systematic review.” Annals of periodontology vol. 8,1 (2003): 303-20. doi:10.1902/annals.2003.8.1.303</a></i></p>
