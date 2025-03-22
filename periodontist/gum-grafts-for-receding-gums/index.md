@@ -35,42 +35,6 @@ title: Gum Grafts for Receding Gums
 <img alt="Receding gums before and after" src="/images/Receding-gums.webp" />
 </p>
 
-<h2>Understanding and Managing Gum Recession</h2>
-
-<p>Gingival recession is a <strong>common condition</strong> seen in daily dental practice, often causing concerns related to <strong>aesthetics, tooth sensitivity, and long-term dental health</strong>. The apical shift of the gum margin exposes the tooth root, making it vulnerable to:</p>
-
-<ul>
-    <li><strong>Dentine hypersensitivity</strong> – Increased sensitivity to hot, cold, and sweet foods.</li>
-    <li><strong>Root caries</strong> – A higher risk of cavities forming on the exposed tooth root.</li>
-    <li><strong>Non-carious cervical lesions (NCCLs)</strong> – Wear and erosion near the gumline due to mechanical or chemical factors.</li>
-    <li><strong>Aesthetic concerns</strong> – Longer-looking teeth and uneven gumlines that affect a patient’s smile.</li>
-</ul>
-
-<h2>Non-Surgical Management of Gum Recession</h2>
-
-<p>While <strong>surgical gum grafting</strong> is the most predictable treatment for significant gum recession, <strong>early intervention</strong> with non-surgical approaches can help prevent its progression. These include:</p>
-
-<ul>
-    <li><strong>Plaque control and improved oral hygiene</strong> – Using a <strong>soft-bristled toothbrush</strong> and proper brushing techniques can prevent further gum loss.</li>
-    <li><strong>Desensitizing agents</strong> – Fluoride treatments or specialized toothpaste to reduce tooth sensitivity.</li>
-    <li><strong>Removing overhanging dental restorations</strong> – Poorly placed fillings or crowns can contribute to gum irritation and recession.</li>
-    <li><strong>Behavior modification</strong> – Addressing factors like <strong>aggressive brushing, tobacco use, or malocclusion (bad bite)</strong> that may be worsening the condition.</li>
-</ul>
-
-<h2>Surgical Treatment Options for Gum Recession</h2>
-
-<p>For moderate to severe gum recession, <strong>surgical intervention</strong> offers the most <strong>effective and long-lasting</strong> results. The <strong>coronally advanced flap</strong> and <strong>tunneling procedures</strong>—when combined with <strong>connective tissue grafting</strong>—are considered the <strong>gold standard</strong> for treating single and multiple recession defects.</p>
-
-<p>Patients who wish to avoid <strong>palate tissue harvesting</strong> may benefit from <strong>acellular dermal matrices</strong> (Allografts) or <strong>collagen-based materials</strong> (Xenografts), which provide similar outcomes without a secondary surgical site.</p>
-
-<p>For patients with <strong>NCCLs (non-carious cervical lesions)</strong>, a <strong>combined restorative-surgical approach</strong>—where a composite restoration is placed alongside a gum graft—can lead to excellent clinical outcomes.</p>
-
-<h2>Maintaining Gum Health Post-Treatment</h2>
-
-<p>If a patient opts out of surgery or has contraindications for invasive procedures, <strong>preventive strategies</strong> remain essential to maintain gum health. <strong>Regular check-ups, professional cleanings, and lifestyle modifications</strong> play a key role in preventing further gum recession.</p>
-
-<p>At <strong>Perio Dental</strong>, <strong>Dr. Roy, a periodontist</strong>, provides <strong>personalized treatment plans</strong> tailored to each patient’s needs. Whether you require <strong>preventive care, non-surgical management, or advanced gum grafting</strong>, Dr. Roy can help restore your <strong>gum health and smile aesthetics</strong>.</p>
-
 
 <h3>Links for references</h3>
 <p><i><a href="https://pubmed.ncbi.nlm.nih.gov/34024328/" target="_blank" rel="noreferrer noopener">Imber, Jean-Claude, and Adrian Kasaj. “Treatment of Gingival Recession: When and How?.” International dental journal vol. 71,3 (2021): 178-187. doi:10.1111/idj.12617</a></i></p>
