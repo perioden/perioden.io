@@ -100,7 +100,6 @@ For the replacement of multiple teeth, dental implant protheses were associated 
 
 <h2><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc, Certified Specialist in Periodontics</i></h2>
 
-
 <p>Dr. Mansur Roy has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified to perform intravenous conscious sedation.</p>
 
 <p>After practicing Dentistry for several years in India, he completed his graduation in Dentistry at University of British Columbia (UBC) where he received an Award in Prosthodontics. Dr. Roy used to be a part-time faculty member/instructor at UBC Dentistry after graduating, before moving to Detroit to pursue post-graduate studies.He continued his studies in United States for three years where he received his Masters Degree in Periodontics.  His subject of research was bone and gum grafts with bio-engineered materials.</p>
@@ -108,9 +107,6 @@ For the replacement of multiple teeth, dental implant protheses were associated 
 <p>He is one of the founding member and past president of Implant Society in India which served continuing education to dentists.</p>
 
 <p>Preserving and developing natural tissue esthetics in the treatment of Dental implants and Periodontics is his primary interest. He has provided seminars in the subject of Periodontics and Dental Implants to dentists.</p>
-
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011422201?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dr. Roy - Periodontist, M.Sc, DMD - Perio Dental Welcome Video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 <p>
@@ -138,3 +134,6 @@ For the replacement of multiple teeth, dental implant protheses were associated 
 <li><a href="/periodontist/all-on-4-dental-implants/index.html">All-on-4 Dental Implants</a> - Learn about this innovative solution for full arch replacement</li>
 <li><a href="/periodontist/implant-supported-dentures/index.html">Implant Supported Dentures</a> - Discover how dental implants can secure your dentures</li>
 <li><a href="/periodontist/removable-implant-supported-denture/index.html">Removable Implant Supported Denture</a> - Learn about the benefits of removable implant supported dentures</li>
+
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1011422201?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Dr. Roy - Periodontist, M.Sc, DMD - Perio Dental Welcome Video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>

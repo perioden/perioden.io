@@ -36,3 +36,6 @@ title: All-on-4 Dental Implants
 
 
 <p>The All-on-4 dental implant technique represents a remarkable advancement in restorative dentistry, offering individuals with missing teeth the opportunity to regain their oral functionality, aesthetic appeal, and confidence. Through a streamlined procedure that minimizes invasiveness and recovery time, patients can enjoy the benefits of a complete smile restoration in a relatively short span. All-on-4 implants not only enhance physical health but also contribute to improved mental and emotional well-being, empowering individuals to lead fulfilling lives with a radiant smile.</p>
+
+<p><iframe width="672" height="378" src="https://www.youtube.com/embed/e6P04D-P3_w?controls=1&rel=0&enablejsapi=1" title="Dental Implant Solutions - All on 4 Full Arch Restoration by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
